@@ -4,7 +4,7 @@ from sentence_transformers import SentenceTransformer, util
 import numpy as np
 
 # Adjust BASE_DIR to the root of 'chatbot' since the JSONs are there
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Load JSON Data
 def load_json(filepath):
@@ -15,8 +15,21 @@ def load_json(filepath):
         print(f"Error loading {filepath}: {e}")
         return []
 
-FR_DATA_PATH = os.path.join(BASE_DIR, "all_chunks.json")
-MG_DATA_PATH = os.path.join(BASE_DIR, "services_mg_complete.json")
+# Find JSON Data (Check current dir and parent)
+def find_data_file(filename):
+    # Check current dir (for local dev in 'backend')
+    curr_path = os.path.join(os.getcwd(), filename)
+    if os.path.exists(curr_path):
+        return curr_path
+    # Check 'backend' subdir (standard structure)
+    backend_path = os.path.join(os.getcwd(), "backend", filename)
+    if os.path.exists(backend_path):
+        return backend_path
+    # Fallback to absolute BASE_DIR
+    return os.path.join(BASE_DIR, filename)
+
+FR_DATA_PATH = find_data_file("all_chunks.json")
+MG_DATA_PATH = find_data_file("services_mg_complete.json")
 
 fr_data = load_json(FR_DATA_PATH)
 mg_data = load_json(MG_DATA_PATH)
