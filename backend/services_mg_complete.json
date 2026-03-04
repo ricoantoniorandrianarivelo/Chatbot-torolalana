@@ -1,0 +1,4340 @@
+[
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/pharmacies-de-garde-1?category=sante",
+    "title": "Fivarotam-panafody mpiandry raharaha Fahasalamana",
+    "scraped_at": "2026-02-26T15:36:24.869023",
+    "description": "Ny fivarotam-panafody mpiandry raharaha dia ireo izay mivarotra ivelan'ny ora fisokafana an-davan'andro. Misy mpivarotra fanafody mandray ny mpividy ao ary manampy amin'ny fampahafantarana ny fanafody sy ny vokatra ara-pahasalamana eny fa na rehefa andro alahady sy andro tsy fiasana ary. +261 (0)32 12 610 00/+261 (0)33 28 693 88/+261 (0)34 25 610 00",
+    "villes": [
+    {
+      "nom": "Antananarivo",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Isoraka",
+          "adresse": "Isoraka",
+          "telephones": ["+261 (0)20 22 285 04", "+261 (0)20 76 694 12"]
+        },
+        {
+          "nom": "Farmasia Capitale",
+          "adresse": "Capitale Rond point Ankazomanga",
+          "telephones": ["+261 (0)32 12 610 00", "+261 (0)33 28 693 88", "+261 (0)34 25 610 00"]
+        },
+        {
+          "nom": "Farmasia Ampandrana",
+          "adresse": "Ampandrana",
+          "telephones": ["+261 (0)32 58 111 74", "+261 (0)34 19 341 82", "+261 (0)34 64 460 99"]
+        },
+        {
+          "nom": "Farmasia Ambodivona",
+          "adresse": "Ambodivona",
+          "telephones": ["+261 (0)34 07 228 98"]
+        },
+        {
+          "nom": "Farmasia Mahamasina",
+          "adresse": "Mahamasina",
+          "telephones": ["+261 (0)33 47 545 58", "+261 (0)XX"]
+        },
+        {
+          "nom": "Farmasia d'Ivandry",
+          "adresse": "Ivandry",
+          "telephones": ["+261 (0)32 03 549 76", "+261 (0)38 12 549 77", "+261 (0)33 11 549 76"]
+        }
+      ]
+    },
+    {
+      "nom": "Antsirabe",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Sitraka",
+          "adresse": "Ambohimiandrisoa",
+          "telephones": ["+261 (0)20 44 484 77"]
+        },
+        {
+          "nom": "Farmasia Ilaina",
+          "adresse": "Vatofotsy",
+          "telephones": ["+261 (0)20 44 499 62"]
+        },
+        {
+          "nom": "Farmasia Ambohimena",
+          "adresse": "Ambohimena",
+          "telephones": ["+261 (0)34 49 177 17"],
+          "ouvert_24_24": true
+        },
+        {
+          "nom": "Farmasia Antsika",
+          "adresse": "Mandaniresaka",
+          "telephones": ["+261 (0)38 72 363 50"],
+          "ouvert_24_24": true
+        }
+      ]
+    },
+    {
+      "nom": "Antsiranana",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Esperance",
+          "adresse": "80 Rue Colbert",
+          "telephones": ["+261 (0)32 44 115 80"]
+        },
+        {
+          "nom": "Farmasia Scama",
+          "adresse": "Imm Scama, route d'Ambolibe",
+          "telephones": ["+261 (0)32 03 250 23", "+261 (0)34 53 250 23"]
+        }
+      ]
+    },
+    {
+      "nom": "Fianarantsoa",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Soava",
+          "adresse": "Place du Zoma",
+          "telephones": ["+261 (0)32 38 454 50"]
+        },
+        {
+          "nom": "Farmasia Mamisoa",
+          "adresse": "Antanifotsy IV, Talatamaty",
+          "telephones": ["+261 (0)34 65 917 42"]
+        }
+      ]
+    },
+    {
+      "nom": "Mahajanga",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Aina",
+          "adresse": "En face du stade Mangarivotra",
+          "telephones": ["+261 (0)34 21 761 47"]
+        },
+        {
+          "nom": "Farmasia Mahavonjy",
+          "adresse": "Fiofio Manjarisoa",
+          "telephones": ["+261 (0)33 78 252 00"]
+        }
+      ]
+    },
+    {
+      "nom": "Toamasina",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Soa",
+          "adresse": "Bazary be en face Station Galana",
+          "telephones": ["+261 (0)20 53 339 12"]
+        },
+        {
+          "nom": "Farmasia Andry",
+          "adresse": "Bazary Kely à coté d’Uprim",
+          "telephones": ["+261 (0)34 90 204 83"]
+        },
+        {
+          "nom": "Farmasia Mirindra",
+          "adresse": "En face transport Vatsy",
+          "telephones": ["+261 (0)38 43 787 43"]
+        }
+      ]
+    },
+    {
+      "nom": "Toliara",
+      "pharmacies": [
+        {
+          "nom": "Farmasia Tsodrano",
+          "adresse": "Sakama Betania",
+          "telephones": ["+261 (0)32 28 027 80"]
+        }
+      ]
+    }
+  ],
+  "antananarivo_peripherie": {
+    "description": "Pharmacies ouvertes 24h/24 et 7j/7 autour d'Antananarivo",
+    "ouvert_24_24": true,
+    "pharmacies": [
+      {
+        "zone": "Ambavahaditokana",
+        "nom": "Farmasia Soa Ny Aina",
+        "adresse": "Tsarahonenana Ambavahaditokana",
+        "telephones": ["+261 (0)34 31 018 20"]
+      },
+      {
+        "zone": "Amboditsiry",
+        "nom": "Pharmacie d’Amboditsiry",
+        "telephones": ["+261 (0)20 22 528 21", "+261 (0)33 01 551 31", "+261 (0)34 36 580 94"]
+      }
+    ]
+  },
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/ambulances?category=sante",
+    "title": "Fiara mpitondra marary Fahasalamana",
+    "scraped_at": "2026-02-26T15:36:30.706250",
+    "description": "Ny fiara mpitondra marary dia fiara voatokana ary misy fitaovana hahafahana mitondra olona marary, olona maratra na vehivavy mitondra vohoka makany amin'ny toera-pitsaboana . Ny fiara mpitondra marary dia misy ireo fitaovana fanaraha-maso sy ireo fitaovana fitsaboana tokony hatao amin'ilay marary. Ireto manaraka ireto ny lisitry ny fiara mpitondra marary sy ny laharana mety hahazoana azy amin'ny ora rehetra.",
+    "centre_traitement": "Ambulance Municipale+261 (0)20 22 200 40Suroit Ambulance+261 (0)34 54 505 87Centre de Diagnostique et d’Urgence médicale+261 (0)20 22 329 56/+261 (0)33 11 822 28Ambulance Mpitsabo Mikambana+261 (0)33 02 235 55/+261 (0)32 04 897 22MEDICAL PLUS (Ankaditoho)+261 (0)20 22 567 58/+261 (0)33 11 613 05ASSISTANCE PLUS(Ivato)+261 (0)32 07 801 10ESPACE MEDICAL (Ambodivona)+261 (0)20 22 625 66/+261 (0)34 02 088 16/+261 (0)34 02 009 11Hôpital Befelatanana (Mahamasina)+261 (0)32 04 925 26Ambulance Polyclinique d’Ilafy+261 (0)20 22 425 66+261 (0)20 22 425 69",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/hopitaux?category=sante",
+    "title": "Hopitaly Fahasalamana",
+    "scraped_at": "2026-02-26T15:36:34.636350",
+    "description": "Espace médical (Près Tana Water Front, Antsahabe, Ambohibao)+261 (0)20 22 625 66/+261 (0)34 02 00 911 Espace médical Ambodivona (Ambodivona) Service des Urgences 24h/24 et Centre d'évacuation sanitaire+261 (0)32 02 088 16/+261 (0)20 22 625 66",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-visa-d-hebergement?category=citoyennete",
+    "title": "Mangataka Visa d'hébergement (fiantranoana) Zom-pirenena",
+    "scraped_at": "2026-02-26T15:36:41.976791",
+    "description": "Natokana ho an'ny vahiny mandalo amin'ny trano fandraisam-bahiny eo anivon'ny fokontany..",
+    "etapes": [
+      "Fanaterana ny antontan-taratasy sy fanamarinana",
+      "Fandoavana ny sarany",
+      "Fangalana ny visa avy amin'ny lehiben'ny fokontany"
+    ],
+    "documents_requis": [
+      "certificat d'hébergement,",
+      "pasipaoro na kara-panondrom-pirenena"
+    ],
+    "temps_traitement": "eo no ho eo",
+    "centre_traitement": "biraom-pokontany",
+    "frais_service": "10 000 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-d-acte-de-deces?category=etat-civil",
+    "title": "Fangalana raki-tsoram-pahafatesana Soram-piankohonana",
+    "scraped_at": "2026-02-26T15:36:47.296618",
+    "description": "Rehefa misy ny fahafatesana ny olona akaiky iray dia matetika ny fianakaviana dia mihatrika ny fikarakarana ara-panjakana ao anatin'ny fikoropahana izay tsy azo ialana. Raha araka ny lalàna, dia tsy maintsy ambara ara-panjakana eny amin'ny biraon'ny tonian'ny sora-piankohonana fa maty ny olona iray, 24 ora aorian'ny nahafatesany.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ],
+    "documents_requis": [
+      "Fisy manamarina ny fahafatesana nomen'ny BMH (Bureau municipal d’hygiène)",
+      "Karampanondron'ny maty",
+      "Dika mitovy ny karapanondron'ny mpanagataka",
+      "Fisy fanisana maty INSTAT",
+      "Taratasy fanampiny mety ilaina : boki-pianakaviana",
+      "Vola 1000 Ariary"
+    ],
+    "temps_traitement": "eo no ho eo"
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/e-koragna-mecanisme-de-gestion-de-plaintes?category=doleances",
+    "title": "e-Koragna, rafitra fitantanana fitarainana Fitarainana",
+    "scraped_at": "2026-02-26T15:36:59.182652",
+    "description": "e-Koragne dia rafitra fitantanana fitarainana napetraky ny Unité de Gouvernance Digitale, napetraka tamin'ny 01 aogositra 2022, ary manana tanjona lehibe amin'ny fametrahana fifandraisana fifampitokisana eo amin'ny mpiara-miombon'antoka ara-teknika sy ara-bola sy ireo mpandray anjara amin'ny tetikasa PRODIGY, amin'ireto teboka manaraka ireto. : Ny tetikasa PRODIGY dia maniry ny hanangona fanehoan-kevitra sy fitarainana avy amin'ny olom-pirenena momba ny fampiasana ny vola natokana ho an'ny tetikasa. Amin'io lafiny io, ny Tetikasa dia nametraka rafitra fitantanana ny fitarainana mangarahara, amin'ny anarana hoe e-Koragna, azo idirana sy maharitra. Ny E-Koragna dia fitaovana sy fitaovana azo ampiasaina hamantarana, hisorohana ary hampihenana ny risika misy fiantraikany ratsy mety hisy fiantraikany amin'ny fanatontosana ny tanjon'ny tetikasa.",
+    "etapes": [
+      "Raha tia iantso ny sehatra e-Koragna dia antsoy ny laharana maintso633. Afaka miantso an’io laharana io avokoa ny laharan-tarobia avy ny mpandraraha eto Madagasikara."
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "(i) Fanatsarana ny serivisy amin'ny ambaratonga rehetra,",
+          "(ii) Fiantohana ny fampiasana araka ny tokony ho izy ny vola natokana ho an'ny tetikasa, ary",
+          "(iii) Fanamafisana ny fiaraha-miasa sy ny fiaraha-miasa eo amin'ny mpandray anjara ."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/creer-un-epp?category=education",
+    "title": "Manorina EPP Fanabeazana",
+    "scraped_at": "2026-02-26T15:37:04.982697",
+    "description": "Tetikasa hatolotra ny CISCO ary hampitainy any amin'ny Minisiteran'ny Fanabeazana.",
+    "etapes": [
+      "fangatahana an-tsoratra avy amin'ny fokonolona eo an-toerana",
+      "tatitra momba ny fivoriana niarahan'ny fokonolona eo an-toerana",
+      "taratasy fanatrehana fivoriana (anarana sy fanampin'anarana, tanàna niaviana, sonia)",
+      "ny isan'ny ankizy tsy mianatra azo vinavinaina hampidirina amin'ny EPP hosokafana, isaky ny tanàna, ny lahy sy vavy, miaraka amin'ny halavirana sy mety ho sakana mety hifanena amin'ny lalana mankany an-tsekoly",
+      "situation juridique momba ny tany hanorenana sekoly (taratasy fanolorana, natokana ho an'ny MEN, efa misy titra sy tsatobato)",
+      "drafitra fananganana sy famatsiam-bola",
+      "taratasy fanoloran-tena hiantoka ny fampandehanan-draharaha eo anivon' ny sekoly mandra-pandraisan'ny Minisiteran'ny Fanabeazana",
+      "tatitra momba ny fivoriana niarahan'ny filan-kevitry ny kaomina",
+      "taratasy ahazoan-dàlana hanorina",
+      "fifanarahana fiaraha-miasa eo amin'ny MEN sy ny mpandraharaha"
+    ],
+    "documents_requis": [
+      "fangatahana an-tsoratra avy amin'ny fokonolona eo an-toerana",
+      "tatitra momba ny fivoriana niarahan'ny fokonolona eo an-toerana",
+      "taratasy fanatrehana fivoriana (anarana sy fanampin'anarana, tanàna niaviana, sonia)",
+      "ny isan'ny ankizy tsy mianatra azo vinavinaina hampidirina amin'ny EPP hosokafana, isaky ny tanàna, ny lahy sy vavy, miaraka amin'ny halavirana sy mety ho sakana mety hifanena amin'ny lalana mankany an-tsekoly",
+      "situation juridique momba ny tany hanorenana sekoly (taratasy fanolorana, natokana ho an'ny MEN, efa misy titra sy tsatobato)",
+      "drafitra fananganana sy famatsiam-bola",
+      "taratasy fanoloran-tena hiantoka ny fampandehanan-draharaha eo anivon' ny sekoly mandra-pandraisan'ny Minisiteran'ny Fanabeazana",
+      "tatitra momba ny fivoriana niarahan'ny filan-kevitry ny kaomina",
+      "taratasy ahazoan-dàlana hanorina",
+      "fifanarahana fiaraha-miasa eo amin'ny MEN sy ny mpandraharaha"
+    ],
+    "temps_traitement": "tsy voafaritra",
+    "centre_traitement": "CISCO",
+    "frais_service": "maimaim-poana.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/acheter-un-terrain-aupres-d-un-particulier?category=habitat-et-foncier",
+    "title": "Hividy tany amin'olon-tsotra Trano sy tany",
+    "scraped_at": "2026-02-26T15:37:08.094728",
+    "description": "Tsy resaka safidina toerana fanorenana fotsiny ny fananganana trano fiasana, trano fonenana na trano fanatobiana entana. Betsaka ny safidy hahafahana mahita ny tany mety indrindra : an-tanàn-dehibe na ambanivohitra, miara-monina na mitoka-monina, mitongilana na mahitsy, lava sy tery na midadasika. Na izany aza, tsy maintsy feno ny fepetra rehetra vao tokony manorina trano. Maro ny fepetra tsy maintsy dinihina mialoha mba hahalalana hoe azo hanorenana ve ny toerana iray. Hamarinina tsara aloha raha manana titra na kadasitra marina ilay olona hivarotra. Alaina aminy ny fotokopian'ny taratasy fanamarinana fananan-tany vita kadasitra na titra (certificat de situation juridique), na ny laharan'ny titra sy ny anaran'ny tany. Manao fangatahana taratasy fanamarinana fananan-tany vita kadasitra na titra vaovao.",
+    "etapes": [
+      "fanamarinana ny fanana-tany",
+      "sari-tany (plan)",
+      "taratasy momba ny fanajariana",
+      "fifanekena ara-barotra",
+      "firaiketana am- boky",
+      "hamindra tany"
+    ],
+    "documents_requis": [
+     "dika mitovy voamarina ny karam-panondrom-pirenena;",
+      "laharan’ny «titra» sy anaran’ny tany ; raha kadasitra : toerana misy azy, ny sokajy (section), laharan’ny parsely, ny rejistra ary ny takelaka (folio).",
+      "taratasy fangatahana (imprimé).",
+      "Fangatahana atao an-tsoratra",
+      "sari-tany Reniny iray",
+      "“chemise ordinaire” iray",
+      "fanamarinana Fananan-tany iray tsy lany daty ho an’ny tany misy titra na kadasitra (latsaky ny 3 volana)",
+      "fanamarinana Fananan-tany iray tsy lany daty ho an’ny tany misy titra na kadasitra (latsaky ny 3 volana) Sarin-tany ofisialy dimy (5) miaraka amin’ny fangitra (coordonnées Laborde )",
+      "Porofon'ny fananana :kara-panondrom-pirenena, fifanekena ara-barotra / taratasy fanolorana / fanamarinana maha mpandova (acte de notoriété), drafitra fanorenana novolavolain'ny manampahaizana (Plan de construction établit par un expert)",
+      "05 taratasy fifanekena ara- barotra",
+      "fanamarinana Fananan-tany iray tsy lany daty ho an’ny tany misy titra na kadasitra (latsaky ny 3 volana)",
+      "sari-tany dimy (05) raha ampahan-tany, telo (3) raha tany manontolo",
+      "boki-tany titra na kadasitra",
+      "Fotokopia kara-panondrom-pirenena voamarina an'ny mpividy sy mpivarotra ary ny vavolombelona roa tonta miaraka amin'ny fanamarinam'ponenan'ny mpividy, mpivarotra sy ny vavolombelona.",
+      "fanamarinam'ponenan'ny mpividy, mpivarotra sy ny vavolombelona.",
+      "“chemise ordinaire” iray",
+      "taratasy manamarina fa vita firaiketana am- boky (enregistrement) sy nahaloa haba ilay tany.",
+      "fangatahana famindrana voasonia, ary lazaina ao ny anaran’ny vady raha manambady.",
+      "taratasy fiantohana milaza fa tsy misy hosoka io fifampivarotana natao io, voasonia ary nohamarinina ny sonia",
+      "taratasy fifanekena ara- barotra voarakitra amin'ny boky",
+      "fanamarinana fananan-tany iray tsy lany daty ho an’ny tany misy titra na kadasitra (latsaky ny 3 volana)",
+      "sari-tany voarakitra amin'ny boky",
+      "boki-tany titra na kadasitra",
+      "Fotokopia kara-panondrom-pirenena voamarina an'ny mpividy sy mpivarotra ary ny vavolombelona roa tonta miaraka amin'ny fanamarinam'ponenan'ny mpividy, mpivarotra sy ny vavolombelona.",
+      "fanamarinam'ponenan'ny mpividy, mpivarotra sy ny vavolombelona.",
+      "taratasy manamarina fa vita firaiketana am- boky (enregistrement) sy nahaloa haba ilay tany",
+      "fanomezan-dalana hivarotra na hanavaka ny tany (autorisation de transaction ou de morcellement)",
+      "“chemise ordinaire” iray",
+      " taratasy manamarina fa vita firaiketana am- boky (enregistrement) sy nahaloa haba ilay tany."
+    ],
+    "temps_traitement": [
+      "fanamarinana ny fanana-tany:  roapolo (20) andro iasana eo ho eo",
+      "sari-tany (plan): folo (10) andro",
+      "taratasy momba ny fanajariana: roa (2) andro",
+      "fifanekena ara-barotra: 48 ora",
+      "firaiketana am- boky: 05 andro",
+      "hamindra tany: 1 ka hatramin'ny 20 andro"
+
+    ],
+    "centre_traitement": [
+      "fanamarinana ny fanana-tany: sampandraharahan’ny fananan-tany misy ilay tany.",
+      "sari-tany (plan): sampandraharahan’ny fandrefesan-tany misy ilay tany (CIRTOPO)",
+      "taratasy momba ny fanajariana:sampandraharahan’ny fananantany misy ilay tany (SRAT).",
+      "fifanekena ara-barotra: kaominina na boriboritany misy ny tany",
+      "firaiketana am- boky:  Ivon-ketra misy ny tany",
+      "hamindra tany:sampandraharahan’ny fananan-tany misy ilay tany (CIRDOMA)"
+    ],
+    "frais_service": [
+      "fanamarinana ny fanana-tany:4 000 Ar.",
+      "taratasy momba ny fanajariana: miankina ny didim-panjakana na ny fanampahan-kevitry ny kaominina",
+      "fifanekena ara-barotra:  2,5 % eo ho eo ny vidin'ny tany",
+      "firaiketana am- boky: 5 % eo ho eo ny vidin'ny tany ho an'ny mpivarotra, 5 % koa ho an'ny mpividy",
+      "hamindra tany: asa fanatsatoham-bato + famindrana amin'ny mpividy"
+
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Fanamarihana:",
+        "items": [
+          "hamarinina tsara fa olona voasoratra ao anatin’ny « Certificat de Situation Juridique - CSJ » latsaky ny telo volana ny olona hivarotra ary izy irery ihany no tompony, na ireo tompony hafa dia samy manaiky ny hivarotra daholo;",
+          "raha tsy izy irery no misoratra ao fa ny ray aman-dreniny efa maty dia asaina manao famindrana araka ny lova aloha izy (mutation par décès), raha maro no misoratra ao amin’ny bokin-tany na kadasitra dia asaina manao fizarana aloha izy (partage), rehefa tsy ny rehetra misoratra ao no hanao ny fampivarotana. RAHA TSY IZANY dia lasa ianao no miantsoroka ny fanaovana ireo rehetra ireo;",
+          "raha manambady ara-dalàna ilay olona misoratra ao amin’ny titra, eny fa na dia ny iray amin’ny mpivady ihany aza no misoratra ao amin’ny titra dia TSY MAINTSY miaraka manao sonia ny mpivady hivarotra (biens acquis pendant le mariage), na manao fanamafisana (ratification) ilay vady tsy voasoratra ao anaty titra;",
+          "tsy tokony hatao mihitsy koa izany ny mividy tany mbola eo an-dàlana ny fangatahana azy satria tsy fantatra raha ho azon’ilay mpangataka te-hivarotra na tsia ilay tany;",
+          "alohan’ny hividy ny tany dia angatahana eo anivon’ny fanajariana ny tany aloha ny fepetra ara-panajariana rehetra sy ny fanomezan-dalana hivarotra na hanavaka ny tany (prescription d’urbanisme et autorisation de transaction ou de morcellement), «certificat de situation juridique » sy sari-tany (plan) misy«coordonnées Laborde»no entina mangataka izany."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-certificats-que-le-fokontany-delivre?category=citoyennete",
+    "title": "Ireo taratasy fanamarinana omen'ny fokontany Zom-pirenena",
+    "scraped_at": "2026-02-26T15:37:11.105549",
+    "description": "Rehefa mikaraka atonta-taratasim-panjakana dia misy karazana taratasy sy fanamarinana ilaina.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanamarinam-ponenana",
+          "Fanamarinana maha mpitovo",
+          "Fanamarinana fitondrantena tsara",
+          "Certificat de prise en charge et de garde",
+          "Fanamarinana tsy fanambadiana taoriana fahafatesana",
+          "Certificat de vie collective",
+          "Taratasy momban'ny fananana",
+          "Certificat de vie individuelle",
+          "Fanamarinana ny fisian'ny toeram-piasana",
+          "Certificat d'occupation"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/transformer-cadastre-en-titre?category=habitat-et-foncier",
+    "title": "Famadihana ny kadasitra ho titra fananan-tany Trano sy tany",
+    "scraped_at": "2026-02-26T15:37:15.153962",
+    "description": "Faharetan'ny fikarakarana :1 ka hatramin'ny 20 andro aorian'ny fandoavana vola",
+    "etapes": [
+      "Fandefasana ny antontan-taratasy any amin'ny birao Ifoton'ny fananan-tany",
+      "Fandraisanan'ny tomponan'andraikitra ny antontan-taratasy raha tsy misy fanamarihana",
+      "Fahazoana ny laharana prévisa",
+      "Visa",
+      "Fandoavana ny saram-panoratana (raha feno ny antontan-taratasy)",
+      "Fanampiana ny antontan-taratasy tsy feno",
+      "Fahazoana ny laharan'ny antontan-taratasy",
+      "Fizarana ny antontan-taratasy amin'ny sampan-draharaha isan-tsokajiny",
+      "Fikarakarana",
+      "Fanasoniavana",
+      "Fitehirizana ny antontan-taratasy ao amin'ny arisiva miandry ny fanomezana ny titra"
+    ],
+    "documents_requis": [
+      "saram-panoratana : 50 000Ar",
+      "saram-panoratana tsy miova : 30 000Ar",
+      "famoronana bokin-tany : 30 000Ar",
+      "fanoratana ny fetran'ny tany sy ny ao anatiny : 20 000Ar"
+    ],
+    "temps_traitement": "1 ka hatramin'ny 20 andro aorian'ny fandoavana vola",
+    "centre_traitement": "Sampandraharahan'ny fananan-tany misy ilay tany",
+    "frais_service": "Zarao amin'ny tambazotra serasera",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Sarany :",
+        "items": [
+          "saram-panoratana : 50 000Ar",
+          "saram-panoratana tsy miova : 30 000Ar",
+          "famoronana bokin-tany : 30 000Ar",
+          "fanoratana ny fetran'ny tany sy ny ao anatiny : 20 000Ar"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/certificat-d-authenticite-de-permis-de-conduire?category=conduite-et-transport",
+    "title": "Taratasim-panamarinana ny fahazoan-dàlana mitondra fiara Fifamoivoizana sy fitaterana",
+    "scraped_at": "2026-02-26T15:37:20.528137",
+    "description": "Service central d'Appui et de coordination du centre d'immatriculation",
+    "etapes": [
+      "Dika mitovy sy voamarina momba ny antontan-taratasy nangatahana,",
+      "Fanaterana ny antontan-taratasy ao amin'ny birao faha 204",
+      "Fikarakarana ataon'ny tompon'andraikitra ao amin'ny birao faha 4 Anosy",
+      "Sonia ataon'ny tompon'andraikitra (Direction d'Appui et de Coordination des Centres Immatriculateurs)",
+      "Fanomezana ny taratasim-panamarinana ny fahazoan-dàlana mitondra fiara ao amin'ny birao faha 204"
+    ],
+    "documents_requis": [
+      "fangatahana natao ho an’ny Minisitra misahana ny Atitany milaza ny antony, ny toerana ary ny faharetan’ny fijanonana,",
+      "dika mitovy ny taratasy nahazoan-dàlana mitondra fiara voamarina",
+      "dika mitovy ny pasipaoro voamarina"
+    ],
+    "temps_traitement": "72 heures",
+    "centre_traitement": "Birao 204",
+    "frais_service": "maimaim-poana.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/lutte-contre-la-delinquance-economique-et-financier?category=securite-et-justice",
+    "title": "Sampandraharaha miady amin'ny fandikan-dalana ara-bola sy ara-toekarena Fiarovana sy fitsarana",
+    "scraped_at": "2026-02-26T15:37:26.291949",
+    "description": "Sampandraharaha mandray an-tanana ny fanadihadiana ireo fandikan-dalana ara-bola sy ara-toekarena toy : ny fisolokiana, ny fivadiam-pitokisana, ny fandikan-dalàna ny ladoany, ny fanodikodinam-bola, ny kolikoly, ny famotsiam-bola Faharetan'ny fikarakarana: miovaova araky ny tranga misy",
+    "etapes": [
+      "fametrahana fitoriana - Fitorohana",
+      "fanadihadiana: atao famotorana ilay mpitory sy ireo vavolombelona rehetra mba ahafahana mamoaka ireo karazana fandikan-dalana manoloana ilay tranga ary mampiantso na misambotra ny mpanao heloka.",
+      "fanaterana eny amin’ny fampanoavana (tribonaly) izay tompon’antoka: Miaraka amin'ny zandary manantona ny fitsarana ny mpitory mba ahalalana ny tohiny raharaha sy ny toromariky ny mpitsara."
+    ],
+    "temps_traitement": " miovaova araky ny tranga misy",
+    "centre_traitement": [
+      "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+      "sampana fikarohana heloka bevava",
+      "vondrona manohana ny fikarohana fandikan-dalàna",
+      "ekipa mpikaroka fandikan-dalàna",
+      "tobim-paritry ny zandarimariam-pirenena"
+    ],
+    "frais_service": ": tsy andoavam-bola",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+          "sampana fikarohana heloka bevava",
+          "vondrona manohana ny fikarohana fandikan-dalana",
+          "ekipa mpikaroka fandikandalana",
+          "tobim-paritry ny zandarimariam-pirenena"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+          "sampana fikarohana heloka bevava",
+          "vondrona manohana ny fikarohana fandikan-dalàna",
+          "ekipa mpikaroka fandikan-dalàna",
+          "tobim-paritry ny zandarimariam-pirenena"
+        ]
+      },
+      {
+        "title": "Zavatra hilaina:",
+        "items": [
+          "fitoriana",
+          "fitorohana am-bava"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+          "sampana fikarohana heloka bevava",
+          "vondona manohana ny fikarohana fandikan-dalàna",
+          "ekipa mpikaroka fandikan-dalàna",
+          "tobim-paritry ny zandarimariam-pirenena"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+          "sampana fikarohana heloka bevava",
+          "vondona manohana ny fikarohana fandikan-dalàna",
+          "ekipa mpikaroka fandikan-dalàna",
+          "tobim-paritry ny zandarimariam-pirenena"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/visiter-les-parcs-nationaux?category=decouverte-de-madagascar",
+    "title": "Hitsidika valan-javaboary Fampafantarana an'i Madagasikara",
+    "scraped_at": "2026-02-26T15:37:31.916566",
+    "description": "Ankehitriny, Madagasikara dia manana faritra arovana miisa 43 izay ahitana valan-javaboary, faritra arovana ary ala voajanahary izay tantanan'ny \"Madagascar National Parks\" (https://www.parcs-madagascar.com/Ireto ambany ireto ny fitanisana ireo valan-javaboaary ireo",
+    "frais_service": ": ao amin'ny faritra Atsinanan'i Madagasikara,",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "items": [
+          "Analamazaotra: faritra Alaotra Mangoro. Distriktan'ny Moramanga, eo anelanelan'ny Andasibe sy Ambatovola.",
+          "**Andohahela **: 40 km avaratra andrefan'ny Tolagnaro ary 30 km andrefan'ny morondranomasina oseana indiana",
+          "Andringitra: any amin'ny faritra Haute-Matsiatra",
+          "Ankarafantsika: any amin'ny faritra Boeny, distrikan'ny Marovoay sy Ambato-Boeny",
+          "Baie de Baly et Tsingy de Namoroka: any amin'ny 150km atsimo andrefan'ny tananan'ny Mahajanga",
+          "Bemaraha: any atsimon'ny faritra Melaky",
+          "Isalo: any amin'ny 269 km ny Fianarantsoa sy 80 km ny Ihosy",
+          "National Kirindy Mite: any amin'ny faritra Menabe",
+          "Mananara-Avaratra: any amin'ny distriktan'ny Mananara Avaratra, 280Km any atsimon'ny Toamasina",
+          "Mantadia: any amin'ny faritra Alaotra Mangoro",
+          "Marojejy: any amin'ny faritra Avarata atsinanana i Madagasikara -** Marolambo** : eo anelanelan'ireto faritra ireto: Atsinanana, Vatovavy-Fitovinany, Vakinankaratra aryAmoron’i Mania",
+          "Masoala:any amin'ny faritra avaratra atsinanan'i Madagasikara ary voafaritry Baie d’Antongil avy any andrefana sy ny ranomasina Oseana indiana avy any atsinanana",
+          "Midongy Befotaka: any amin'ny faritra atsimo atsinanan'ny Madagasikara any amin'ny 90 km ny Vangaindrano .",
+          "Mikea: any amin'ny faritra atsimo andrefan'ny Madagasikara eo anelanelan'ny distriktaToliara II sy Morombe",
+          "Tendrombohitra Ambre: 38 km ny Antsiranana",
+          "Marin Nosy Hara: any amin'ny faritra Diana, 12km an'Ampasindava",
+          "Marin Nosy Tanihely: 8,5 km any atsimo andrefan'ny seranan'ny Hell-Ville -Nosy be.",
+          "Nosy Ve-Androka: any amin'ny faritra atsimo andrefana, eo amin'ireto firaisana ireto : Beheloke, Itampolo sy Androka",
+          "Ranomafana: any amin'ny faritra Atsimo atsinanan'ny Madagasikara eo anelanelan'ny faritra Matsiatra ambony sy Vatovavy Fitovinany",
+          "Sahamalaza: eny amin'ny moron-tsiraka avaratra andrefan'ny Madagasikara,eo anelanelan'ny distriktan'ny Ambanja sy Analalava",
+          "Tsimanapetsotse: any amin'ny faritra atsimo andrefan'ny Madagasikara.",
+          "Zahamena: 20 km miala n'ny faritra Laka Alaotra ary 50 km miala ny ranomasimbe indiana.",
+          "Zombitse Vohibasia: any amin'ny faritra atsimo andrefan'ny Madagasikara 135 km any atsimo atsinanan'ny Toliara"
+        ]
+      },
+      {
+        "items": [
+          "Ambatovaky: any amin'ny morontsiraka Atsinanan'ny Madagasikara, any amin'ny Faritanin'i Toamasina",
+          "Ambohitantely: any amin'ny faritra Analamanga, distriktan'ny Ankazobe",
+          "Anjanaharibe-Atsimo: Atsimo andrefan'ny tananan'Andapa amin'ny lalan'ny Bealalana, ao amin'ny faritra Sava",
+          "Ankarana: ao amin'ny faritra DIANA , Distriktan'Ambilobe",
+          "Beza Mahafaly: ao amin'ny faritra\"Atsimo-Andrefana\", distriktan'ny Betioky Atsimo",
+          "Tendron'ny Sainte-Marie: atsimon'ny Tsihombe, Faritra Androy",
+          "Kalambatritra: any amin'ny Atsimo andrefan'ny Madagasikara, sisin'ny faritra Horombe sy Anosy",
+          "Analamerana: ao amin'ny faritraAvarata atsinana'ny Madagasikara, ao amin'ny faritra DIANA sy faritra SAVA",
+          "Tendron'ny Ivohibe: ao amin'ny faritra Atsimo atsinanan'i Madagasikara, faritra Matsiatra ambony",
+          "Mangerivola: ao amin'ny faritra Atsinanan'i Madagasikara,",
+          "Manombo: 26 km ny Farafangana",
+          "Manongarivo: ao amin'ny faritra Avarata Andrefan'i Madagasikara, faritra Diana (Ambanja)",
+          "Marotandrano: ao amin'ny faritra avaratra atsinanan'iMadagasikara amin'ny sisin'ny faritra Sofia sy Alaotra Mangoro\""
+        ]
+      },
+      {
+        "items": [
+          "Lokobe: any amin'ny faritra atsimo atsinanan'ny Nosy be",
+          "Betampona: any amin'ny faritra Atsinanan'iMadagasikara, Toamasina II",
+          "Tsaratanana: any amin'ny faritra avaratra andrefan'i Madagasikara, faritra Diana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-acte-de-partage?category=habitat-et-foncier",
+    "title": "Fangatahana taratasy fizaràna Trano sy tany",
+    "scraped_at": "2026-02-26T15:37:35.568539",
+    "etapes": [
+      "Fampidirana ny antontan-taratasy any amin'ny lehiben'ny boriboritany",
+      "Famakian'ny lehiben'ny boriboritany ny taratasy fanamarinana maha mpandova",
+      "Fandraisana ny taratasy fizaràna"
+    ],
+    "documents_requis": [
+      "certificat de situation juridique (anankiroa)",
+      "fotokopia kara-panondrom-pirenena voamarina (anankiroa)",
+      "sari-tany (anankidimy)"
+    ],
+    "centre_traitement": "boriboritany",
+    "frais_service": "tsy misy sarany",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/obtenir-son-permis-de-conduire?category=conduite-et-transport",
+    "title": "Fangalana taratasy fahazoan-dalana hamily Fifamoivoizana sy fitaterana",
+    "scraped_at": "2026-02-26T15:37:40.030664",
+    "description": "Rehefa nahavita ny fianarana mamily fiara dia manala fanadinana momban'ny lalanan'ny fifamoivoizana sy familiana fiara eny anivon'ny Agence des Transports Terrestres Tsimbazaza. Mikasika ny saram-panadinana dia andraikitry ny sekoly fampianarana mitondra fiara ny mandoa izany amin’ny anaran’ny kandidà eny amin'ny ATT. Izany saram-panadinana izany dia mitentina : Rehefa afaka fanadinana dia manome taratasy ho an'ny mpangataka ny sekoly fampianarana mitondra fiara. Ity antontan-taratasy ity dia ahafahan'ny olona mangataka fahazoan-dàlana mamily fiara eny anivon'ny CIM.",
+    "etapes": [
+      "Mianatra mamily fiara eny anivon'ny toerana fianarana mamily",
+      "Manala fanadinana",
+      "Manao fotoana eny anivon'ny CIM",
+      "Fametrahana atontan-taratasy",
+      "Fangalana ny taratasy fahazoan-dalana mitondra fiarakodia"
+    ],
+    "frais_service":[
+      "10 000 Ar ho an'ny sokajy A, A' sy B",
+      "15 000 Ar ho an'ny sokajy C, D ary E"
+    ],
+    "temps_traitement": "Rehefa afaka fanadinana dia manome taratasy ho an'ny mpangataka ny sekoly fampianarana mitondra fiara. Ity antontan-taratasy ity dia ahafahan'ny olona mangataka fahazoan-dàlana mamily fiara eny anivon'ny CIM.",
+    "centre_traitement": "Mianatra mamily fiara no dingana voalohany amin'ny fangatahana taratasy fahazon-dalana mitondra fiarakodia. Mizara roa ny fandaharam-pianarana. Misy ny fampianarana an-tsoratra ianarana lalànan'ny fifamoivoizana ary misy ihany koa ny fampianarana mitondra fiara arahana mpanara-maso.",
+    "documents_requis": [
+      {
+        "title": "Sokajy A sy A'",
+        "items": [
+          "Kara-tsekoly",
+          "Kopia nahaterahana",
+          "Taratasy fanamarinam-ponenana",
+          "Sary famantarana 5"
+        ]
+      },
+      {
+        "title": "Sokajy B",
+        "items": [
+          "Dika mitovy ny kara-panondrom-pirenena",
+          "Kopia nahaterahana A",
+          "Fanamarinam-ponenana",
+          "Sary famantarana 5"
+        ]
+      },
+      {
+        "title": "Fanitarana ho amin'ny sokajy C, D ary E",
+        "items": [
+          "Dika mitovy ny kara-panondrom-pirenena",
+          "Kopia nahaterahana",
+          "Fanamarinam-ponenana",
+          "Sary famantarana 5",
+          "Fanamarinana ara-pahasalamana navoakan'ny Birao monisipaly ny hadiovana (BMH)",
+          "Kopia voamarina an'ny fahazoan-dàlana mitondra fiara sokajy B"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/universite-d-antananarivo?category=etudes-superieures",
+    "title": "Oniversiten'Antananarivo Fampianarana ambony",
+    "scraped_at": "2026-02-26T15:37:45.189013",
+    "description": "Ny oniversiten’Antananarivo dia fehezin’ny didim-panjakana 565-2002 tamin’ny 04 jolay 2002. Filankevi-pitantanana (vondrona deliberativa) no mitantana azy ary filoha (corporate mpanatanteraka). Izy io koa dia manana Filankevitry ny Siansa momba ny Oniversite izay ahitana ny Filoha sy ny Dean / Talen'ny Andrimpanjakana. Ity Filankevitra ity dia manome ny heviny momba ny raharaha rehetra mifandraika amin'ny Fanofanana sy Fikarohana. Ny Andrimpanjakana tsirairay dia tantanan'ny Filankevitra (Filankevitry ny Faculté na Filankevitry ny Sekoly), ary ny Dekan na Tale no mitantana azy. Ity Fakiolte na Sekoly ity dia misy koa ny Filankevitry ny Siantifika, ny Kolejin'ny Mpampianatra ary ny Kolejin'ny Departemanta. Ny fiofanana momba ny asa dia noforonina eny anivon'ny toeram-pianarana.",
+    "tableaux": [
+      {
+        "headers": [
+          "",
+          ""
+        ],
+        "rows": [
+          [
+            "ÉCOLE SUPÉRIEURE SCIENCES AGRONOMIQUES (ESS-AGRO)",
+            "Agriculture Tropicale et Développement Durable (AT2D)"
+          ],
+          [
+            "",
+            "Agro Management"
+          ],
+          [
+            "",
+            "Agroécologie, Biodiversité et Changement Climatique (ABC)"
+          ],
+          [
+            "",
+            "Foresterie et Environnement"
+          ],
+          [
+            "",
+            "Industries Agricoles et Alimentaires (IAA)"
+          ],
+          [
+            "",
+            "Sciences Animales (SA)"
+          ],
+          [
+            "",
+            "SAE"
+          ],
+          [
+            "FACULTÉ DE DROIT ET SCIENCES POLITIQUES (DSP)",
+            "Droit"
+          ],
+          [
+            "",
+            "Sciences et Technique Information et la Communication"
+          ],
+          [
+            "",
+            "Sciences Politiques"
+          ],
+          [
+            "FACULTÉ D’ÉCONOMIE, GESTION ET SOCIOLOGIE (EGS)",
+            "Économie"
+          ],
+          [
+            "",
+            "Gestion"
+          ],
+          [
+            "",
+            "Sociologie"
+          ],
+          [
+            "FACULTÉ LETTRES ET SCIENCES HUMAINES (FLSH)",
+            "Anthropologie"
+          ],
+          [
+            "",
+            "Communication, Médias, Médiation, Innovation Et Développement Local"
+          ],
+          [
+            "",
+            "Communication, Médiation, Médias Et Organisation"
+          ],
+          [
+            "",
+            "École Doctorale"
+          ],
+          [
+            "",
+            "Études Anglophones"
+          ],
+          [
+            "",
+            "Études Françaises Et Francophones"
+          ],
+          [
+            "",
+            "Études Germaniques"
+          ],
+          [
+            "",
+            "Études Malgaches"
+          ],
+          [
+            "",
+            "Études Plurilingues Et Interculturelles"
+          ],
+          [
+            "",
+            "Géographie"
+          ],
+          [
+            "",
+            "Histoire, Sciences Savoirs Et Sociétés En Développement"
+          ],
+          [
+            "",
+            "Langues Étrangères"
+          ],
+          [
+            "",
+            "Philosophie"
+          ],
+          [
+            "",
+            "Psychologie Sociale Et Interculturelle"
+          ],
+          [
+            "",
+            "Science Du Tourisme"
+          ],
+          [
+            "FACULTÉ DE MEDECINE",
+            "Médecine Humaine"
+          ],
+          [
+            "",
+            "Médecine Vétérinaire"
+          ],
+          [
+            "",
+            "Pharmacie"
+          ],
+          [
+            "",
+            "Sciences Paramédicales"
+          ],
+          [
+            "ÉCOLE NORMALE SUPÉRIEURE (ENS)",
+            "Activités Physiques Sportives Et Artistiques (EAD – APSA)"
+          ],
+          [
+            "",
+            "Administration Éducation"
+          ],
+          [
+            "",
+            "Biologie Et Écologie Végétales (BEV)"
+          ],
+          [
+            "",
+            "EAD HGEC-SES"
+          ],
+          [
+            "",
+            "EAD Langues Et Philosophie"
+          ],
+          [
+            "",
+            "Éducation Pluralité Linguistique Et Culturelle"
+          ],
+          [
+            "",
+            "Formation Ressources Humaines Éducation"
+          ],
+          [
+            "",
+            "Recherche Et Didactiques Discipline (RE2DI)"
+          ],
+          [
+            "",
+            "SAE"
+          ],
+          [
+            "",
+            "Sciences Expérimentales Et Mathématiques"
+          ],
+          [
+            "",
+            "Usages Savoir et Et Compétences Contexte Multilingue (USCCM)"
+          ],
+          [
+            "ECOLE SUPÉRIEURE POLYTECHNIQUE ANTANANARIVO (ESPA)",
+            "Bâtiments et Travaux Publics (BTP)"
+          ],
+          [
+            "",
+            "CHIMIE"
+          ],
+          [
+            "",
+            "Électronique(EN)"
+          ],
+          [
+            "",
+            "Génie Civil"
+          ],
+          [
+            "",
+            "Génie de Science et de la Terre (GST)"
+          ],
+          [
+            "",
+            "Génie de Science et Technologie Industriel (GSTI)"
+          ],
+          [
+            "",
+            "Génie Électrique"
+          ],
+          [
+            "",
+            "Génie Géologique (GGEO)"
+          ],
+          [
+            "",
+            "Génie Industriel"
+          ],
+          [
+            "",
+            "Génie Mécanique et Industriels (GMI )"
+          ],
+          [
+            "",
+            "Génie Rural (GER)"
+          ],
+          [
+            "",
+            "GPI"
+          ],
+          [
+            "",
+            "Hydraulique (HYD)"
+          ],
+          [
+            "",
+            "Information Géographique Aménagement du Territoires (IGAT)"
+          ],
+          [
+            "",
+            "Ingénierie Minière (IMIN)"
+          ],
+          [
+            "",
+            "Ingénierie Pétrolière (IPE)"
+          ],
+          [
+            "",
+            "Ingénierie Systèmes Avances (ISA)"
+          ],
+          [
+            "",
+            "Météorologie (MTO)"
+          ],
+          [
+            "",
+            "Sciences Et Techniques Information Et La Communication"
+          ],
+          [
+            "",
+            "Science et Ingénierie des Matériaux (SIM)"
+          ],
+          [
+            "",
+            "Télécommunication (TCO)"
+          ],
+          [
+            "",
+            "UAGC"
+          ],
+          [
+            "SCIENCES ET TECHNOLOGIES",
+            "Anthropobiologie Et Développement Durable"
+          ],
+          [
+            "",
+            "Anthropologie"
+          ],
+          [
+            "",
+            "Bassins Sédimentaires, Evolution, Conservation (BEC)"
+          ],
+          [
+            "",
+            "Biochimie Fondamentale Et Appliquée (BFA)"
+          ],
+          [
+            "",
+            "Biologie Et Écologie Végétales (BEV)"
+          ],
+          [
+            "",
+            "Chimie"
+          ],
+          [
+            "",
+            "Électronique"
+          ],
+          [
+            "",
+            "Entomologie"
+          ],
+          [
+            "",
+            "Entomologie Culture Élevage Santé (E-CES)"
+          ],
+          [
+            "",
+            "Mathématiques Et Informatique"
+          ],
+          [
+            "",
+            "Physiologie-Animale Pharmacologie Et Cosmétologie (PPC)"
+          ],
+          [
+            "",
+            "Physique Et Applications"
+          ],
+          [
+            "",
+            "Procédés Et Écologie Industrielle (PEI)"
+          ],
+          [
+            "",
+            "Sciences Et Techniques Information Et La Communication"
+          ],
+          [
+            "",
+            "Sciences La Terre Et L’environnement (STE)"
+          ],
+          [
+            "",
+            "Sciences Paramédicales"
+          ],
+          [
+            "",
+            "Tronc Commun Biologie"
+          ],
+          [
+            "",
+            "Tronc Commun E Mathématiques Informatique Physique Chimie"
+          ],
+          [
+            "",
+            "Zoologie Et Biodiversité Animale (ZBA)"
+          ],
+          [
+            "INSTITUT ENSEIGNEMENT SUPÉRIEUR ANTSIRABE VAKINAKARATRA (IESAV)",
+            "Agronomie et Agroalimentaire- Agro Management"
+          ],
+          [
+            "",
+            "Communication, Médias, Médiation, Innovation Et Développement Local"
+          ],
+          [
+            "",
+            "Électronique"
+          ],
+          [
+            "",
+            "Environnement"
+          ],
+          [
+            "",
+            "Génie Civil"
+          ],
+          [
+            "",
+            "Génie Industriel"
+          ],
+          [
+            "",
+            "Génie Minier"
+          ],
+          [
+            "",
+            "Génie Rural"
+          ],
+          [
+            "",
+            "Gestion"
+          ],
+          [
+            "",
+            "Sciences Et Techniques Information Et La Communication"
+          ],
+          [
+            "",
+            "Sciences Gestion"
+          ],
+          [
+            "",
+            "Science et Ingénierie des Matériaux (SIM)"
+          ],
+          [
+            "",
+            "Télécommunications"
+          ],
+          [
+            "INSTITUT D'ENSEIGNEMENT SUPÉRIEUR SOAVINANDRIANA ITASY (IESSI)",
+            "Agro-Ecologie"
+          ],
+          [
+            "",
+            "Bâtiments Et Travaux Publics (Btp)"
+          ],
+          [
+            "",
+            "Communication Eco-Tourisme"
+          ],
+          [
+            "",
+            "Communication Territoriale"
+          ],
+          [
+            "",
+            "Communication, Médias, Médiation, Innovation Et Développement Local"
+          ],
+          [
+            "",
+            "Communication, Médiation, Médias Et Organisation"
+          ],
+          [
+            "",
+            "Environnement"
+          ],
+          [
+            "",
+            "Génie Minier"
+          ],
+          [
+            "",
+            "Génie Rural"
+          ],
+          [
+            "",
+            "Eau Et Environnement"
+          ],
+          [
+            "",
+            "Énergie Renouvelable"
+          ],
+          [
+            "",
+            "Gestion"
+          ],
+          [
+            "",
+            "Gestion Environnement"
+          ],
+          [
+            "",
+            "Gestion Et Valorisation Ressources Naturelles"
+          ],
+          [
+            "",
+            "Informatique"
+          ],
+          [
+            "",
+            "Mécanisation Agricole"
+          ],
+          [
+            "",
+            "Mines Et Environnement"
+          ],
+          [
+            "",
+            "Tourisme"
+          ],
+          [
+            "",
+            "Transformation Agro Alimentaire"
+          ],
+          [
+            "",
+            "Télécommunication"
+          ],
+          [
+            "",
+            "Informatique"
+          ],
+          [
+            "",
+            "Aquapone"
+          ],
+          [
+            "",
+            "Étude D'accueil"
+          ],
+          [
+            "",
+            "Télécommunication (TCO)"
+          ],
+          [
+            "INSTITUT SUPÉRIEUR DE TECHNOLOGIE",
+            "GC"
+          ],
+          [
+            "",
+            "GEA"
+          ],
+          [
+            "",
+            "Génie Industriel"
+          ],
+          [
+            "",
+            "GMEC"
+          ],
+          [
+            "",
+            "GSI"
+          ]
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/recrutement-des-eleves-gendarmes?category=fonction-publique",
+    "title": "Fifaninana hiditra ho zandary Asam-panjakana",
+    "scraped_at": "2026-02-26T15:37:48.439654",
+    "description": "Isan-taona, ny Zandarimariam-pirenena dia mandray ny olom-pirenena nahazo diplaoma bakalorea, na mitovy aminy, hiditra ho zandary. Hisy fampahafantarana momba an'izany havoaka amin'ny haino aman-jery sy tambajotra sosialy. Toerana: Commandement de la Gendarmerie nationale Toby RATSIMANDRAVA",
+    "etapes": [
+      "fametrahana ny antontan-taratasy",
+      "Fizaham-pahasalamana",
+      "Adina hakingan-tsaina (lanjan'isa 01)",
+      "Adina am-bava (lanjan'isa 02)",
+      "Adina aram-panatanjahan-tena (lanjan'isa 02) izay mitsinjara ho toy izao :"
+    ],
+    "documents_requis": [
+      "Taratasy fangatahana alefa amin’Andriamatoa Minisitra Délégué misahana ny Zandarimariam-pirenena ka hamafisina ao anatin’izany fangatahana izany ny sokajy sy ny ivotoerana hiadinana",
+      "Dika mitovy amin’ny kopia nanterahana latsaky ny 01 taona ;",
+      "Dika mitovy @ diplaoma BACC voamarin’ny Office du Bacc na ny mitovy lenta amin’izany izay voamarin’ny Minisitera misahana ny asam-panjakana sy ny fampananan’asa",
+      "Fanamarinam-pahasalamana nomen’ny Mpitsabo Miaramila na mpiatsabo amin’ny Tobim-pahasalamanam-panjakana aany amin’ny toerana tsy misy Mpitsabo miaramila",
+      "Fanamarinana halavana",
+      "Casier judiciaire latsaky ny 03 volana",
+      "Taratasy manamarina fa nandoa saram-pifaninanana 35.000 ariary naloa tamin’ny kaonty BOA laharana : 00009 05035 11881880001 35 amin’ny anaran’ny Fitaleavana misahana ny maha olona, Toby Ratsimandrava",
+      "Taratasim-pisorantana anarana voamarin’ny lehiben’ny Tobim-paritra",
+      "Dika mitovy amin’ny karam-panondrom-pirenena",
+      "Fanamarinam-ponenana latsaky ny 03 volana ;",
+      "Sary tapaka 04",
+      "Valopy misy hajia 1600 ariary misy ny adiresy mazava an’ny mpiadina",
+      "Ho an'ny vehivavy: Fanamarinana tsy mahabevohoka latsiky ny 15 andro",
+      "Ho an'ny miaramila: Taratasy milaza ny servisy vita, Fanamarinam-pitondrantena mendrika, Taratasy fangatahana nahazoana alalana tamin’ny lehibe",
+      "Ho an’ireo manana fahaizana manokana: Dika mitovy ny diplaoma mifanaraka amin’ny fahaizana",
+      "Ho an’ireo zaza kambotin’ny Zandary: Dika mitovy ny Kopia nahaterahana",
+      "Taratasy filazana ny servisy vitan’ilay zandary maty",
+      "Ho an’ireo vady navelan’ny Zandary maty teo ampanatanterahana iraka: -Dika mitovy ny soram-pahafatesan’ilay zandary, Dika mitovy ny soram-piankohonanan’izy roa, Taratasy filazana ny servisy vitan’ilay zandary maty, Fanamarinana mikasika sy sazy sy ny naoty an’ilay miaramila nandritry ny fanompoam-pirenena nataony"
+    ],
+    "temps_traitement": "06 volana",
+    "centre_traitement": "Commandement de la Gendarmerie nationale Toby RATSIMANDRAVA",
+    "frais_service": "maimaim-poana ny fiofanana",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "Sekolin’ny Zandarimaria Ambositra",
+          "Ivotoerana manokana manamafisam-piofanana",
+          "Tobim-paritra misahana ny fifamoivoizana manokana",
+          "Tobim-paritry ny Zandarimariam-pirenena"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/recrutement-des-eleves-gendarmes?category=fonction-publique",
+    "title": "Fifaninana hiditra ho zandary Asam-panjakana: Dingana 1 fametrahana ny antontan-taratasy",
+    "scraped_at": "2026-02-26T15:37:48.439654",
+    "description": " Fisoratana anarana ho isan’ny mpiadina",
+    "documents_requis": [
+      "Taratasy fangatahana alefa amin’Andriamatoa Minisitra Délégué misahana ny Zandarimariam-pirenena ka hamafisina ao anatin’izany fangatahana izany ny sokajy sy ny ivotoerana hiadinana",
+      "Dika mitovy amin’ny kopia nanterahana latsaky ny 01 taona ;",
+      "Dika mitovy @ diplaoma BACC voamarin’ny Office du Bacc na ny mitovy lenta amin’izany izay voamarin’ny Minisitera misahana ny asam-panjakana sy ny fampananan’asa",
+      "Fanamarinam-pahasalamana nomen’ny Mpitsabo Miaramila na mpiatsabo amin’ny Tobim-pahasalamanam-panjakana aany amin’ny toerana tsy misy Mpitsabo miaramila",
+      "Fanamarinana halavana",
+      "Casier judiciaire latsaky ny 03 volana",
+      "Taratasy manamarina fa nandoa saram-pifaninanana 35.000 ariary naloa tamin’ny kaonty BOA laharana : 00009 05035 11881880001 35 amin’ny anaran’ny Fitaleavana misahana ny maha olona, Toby Ratsimandrava",
+      "Taratasim-pisorantana anarana voamarin’ny lehiben’ny Tobim-paritra",
+      "Dika mitovy amin’ny karam-panondrom-pirenena",
+      "Fanamarinam-ponenana latsaky ny 03 volana ;",
+      "Sary tapaka 04",
+      "Valopy misy hajia 1600 ariary misy ny adiresy mazava an’ny mpiadina",
+      "Ho an'ny vehivavy: Fanamarinana tsy mahabevohoka latsiky ny 15 andro",
+      "Ho an'ny miaramila: Taratasy milaza ny servisy vita, Fanamarinam-pitondrantena mendrika, Taratasy fangatahana nahazoana alalana tamin’ny lehibe",
+      "Ho an’ireo manana fahaizana manokana: Dika mitovy ny diplaoma mifanaraka amin’ny fahaizana",
+      "Ho an’ireo zaza kambotin’ny Zandary: Dika mitovy ny Kopia nahaterahana",
+      "Taratasy filazana ny servisy vitan’ilay zandary maty",
+      "Ho an’ireo vady navelan’ny Zandary maty teo ampanatanterahana iraka: -Dika mitovy ny soram-pahafatesan’ilay zandary, Dika mitovy ny soram-piankohonanan’izy roa, Taratasy filazana ny servisy vitan’ilay zandary maty, Fanamarinana mikasika sy sazy sy ny naoty an’ilay miaramila nandritry ny fanompoam-pirenena nataony"
+    ],
+    "temps_traitement": " 03 volana",
+    "centre_traitement": "Tobim-paritry ny zandarimariam-pirenena akaiky anao",
+    "frais_service": "35.000 ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Toerana:",
+        "items": [
+          "Sekolin’ny Zandarimaria Ambositra",
+          "Ivotoerana manokana manamafisam-piofanana",
+          "Tobim-paritra misahana ny fifamoivoizana manokana",
+          "Tobim-paritry ny Zandarimariam-pirenena"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/recrutement-des-eleves-gendarmes?category=fonction-publique",
+    "title": "Fifaninana hiditra ho zandary Asam-panjakana: Dingana 2 fifaninana fiodinana voalohana",
+    "scraped_at": "2026-02-26T15:37:48.439654",
+    "description": " Ny fifaninana fiodinana voalohana dia fanadinana an-tsoratra izay hatao any amin’ireo ivon-toerana telo amby roapolo (23) any amin’ireo renivohitry ny faritra misy ny foiben’ny vondron’ny Zandarimariam-pirenena.",
+    "documents_requis": [
+      "Ny taranja kajy dia tsoahina avy amin’ny fandaharam-pianaran’ny kilasy famaranana haisoratra.",
+      "Ny taranja malagasy sy frantsay kosa dia tsoahina amin’ny fandaharam-pianaran’ny kilasy famaranana siantifika",
+      "Ireo mpiadina afaka soamatsara amin’io fiodinana voalohany io no miatrika ny fiodinana faharoa.",
+      "Ny vokatry ny fifaninanana fiodinana voalohany dia aparitaka amin’ny haino aman-jery ary atao peta-drindrina manerana ny biraon’ny zandarimariam-pirenena."
+    ],
+    "temps_traitement": "  02 andro",
+    "centre_traitement": "23 vondron-tobim-pileovanan' ny Zandarimariam-pirenena",
+    "frais_service": " tsy misy",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Toerana",
+        "items": [
+          "Sekolin’ny Zandarimaria Ambositra",
+          "Ivotoerana manokana manamafisam-piofanana",
+          "Tobim-paritra misahana ny fifamoivoizana manokana",
+          "Tobim-paritry ny Zandarimariam-pirenena"
+        ]
+      },
+      {
+        "title": "Ireto avy ny taranja hanadinana",
+        "items": [
+          "Malagasy (famakafakan-kevitra, fomba malagasy, fitsipi-pitenenanana)",
+          "Kajy",
+          "Frantsay (famakafakan-kevitra, voambolana, fitsipi-pitenenanana)" 
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/recrutement-des-eleves-gendarmes?category=fonction-publique",
+    "title": "Fifaninana hiditra ho zandary Asam-panjakana: Dingana 3 fifaninana fiodinana faharoa",
+    "scraped_at": "2026-02-26T15:37:48.439654",
+    "description": "Ny fiodinana faharoa dia atao eto amin’ ny sekolin’ny Zandarimariam-pirenena Ambositra",
+    "documents_requis": [
+      "Fizaham-pahasalamana",
+      "Adina hakingan-tsaina (fatra 01)",
+      "Adina am-bava (fatra 02)",
+      "Adina aram-panatanjahan-tena (fatra 02) izay mitsinjara ho toy izao :\n 100 metatra ho an’ny rehetra.\n 1000 metatra ho an’ny lehilahy.\n 800 metatra ho an’ny vehivavy."
+    ],
+    "temps_traitement": "  15 andro",
+    "centre_traitement": "Sekolin’ny Zandarimaria Ambositra",
+    "frais_service": " mandoa vidin-tsakafo mandritry ny fifaninana",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ireto avy ny zavatra atao",
+        "items": [
+          "Fizaham-pahasalamana",
+          "Adina hakingan-tsaina (lanjan'isa 01)",
+          "Adina am-bava (lanjan'isa 02)",
+          "Adina aram-panatanjahan-tena (lanjan'isa 02) izay mitsinjara ho toy izao: 100 metatra ho an’ny rehetra 1000 metatra ho an’ny lehilahy 800 metatra ho an’ny vehivavy"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/recrutement-des-eleves-gendarmes?category=fonction-publique",
+    "title": "Fifaninana hiditra ho zandary Asam-panjakana: Dingana 4 fiofanana",
+    "scraped_at": "2026-02-26T15:37:48.439654",
+    "temps_traitement": "03 taona",
+    "centre_traitement": [
+      "Sekolin’ny Zandarimaria Ambositra",
+      "Ivotoerana manokana manamafisam-piofanana",
+      "Tobim-paritra misahana ny fifamoivoizana manokana",
+      "Tobim-paritry ny Zandarimariam-pirenena"
+    ],
+    "frais_service": "tsy misy",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ireto avy ny zavatra atao amin'ity dingana",
+        "items": [
+          "Fiofanana ara-miaramila",
+          "Fiofanana arak’asa)",
+          "Aguerrissement",
+          "Fampiharana arak’asa"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/regions-et-districts?category=decouverte-de-madagascar",
+    "title": "Faritra sy distrika Fampafantarana an'i Madagasikara",
+    "scraped_at": "2026-02-26T15:37:54.420602",
+    "description": "Ny distrika dia fizarana ara-panjakana ireo faritra 23 eto Madagasikara. Miisa 119 izy ireo.",
+    "tableaux": [
+      {
+        "headers": [
+          "Anaran'ny faritra",
+          "Fanamarihana ny distrikta",
+          "Anaran'ny distrikta"
+        ],
+        "rows": [
+          [
+            "ANALAMANGA",
+            "1",
+            "AMBOHIDRATRIMO"
+          ],
+          [
+            "ANALAMANGA",
+            "2",
+            "ANDRAMASINA"
+          ],
+          [
+            "ANALAMANGA",
+            "3",
+            "ANJOZOROBE"
+          ],
+          [
+            "ANALAMANGA",
+            "4",
+            "ANKAZOBE"
+          ],
+          [
+            "ANALAMANGA",
+            "5",
+            "ANTANANARIVO ATSIMONDRANO"
+          ],
+          [
+            "ANALAMANGA",
+            "6",
+            "ANTANANARIVO AVARADRANO"
+          ],
+          [
+            "ANALAMANGA",
+            "7",
+            "ANTANANARIVO RENIVOHITRA"
+          ],
+          [
+            "ANALAMANGA",
+            "13",
+            "MANJAKANDRIANA"
+          ],
+          [
+            "BONGOLAVA",
+            "14",
+            "FENOARIVOBE"
+          ],
+          [
+            "BONGOLAVA",
+            "15",
+            "TSIROANOMANDIDY"
+          ],
+          [
+            "ITASY",
+            "16",
+            "ARIVONIMAMO"
+          ],
+          [
+            "ITASY",
+            "17",
+            "MIARINARIVO"
+          ],
+          [
+            "ITASY",
+            "18",
+            "SOAVINANDRIANA"
+          ],
+          [
+            "VAKINANKARATRA",
+            "19",
+            "AMBATOLAMPY"
+          ],
+          [
+            "VAKINANKARATRA",
+            "20",
+            "ANTANIFOTSY"
+          ],
+          [
+            "VAKINANKARATRA",
+            "21",
+            "ANTSIRABE I"
+          ],
+          [
+            "VAKINANKARATRA",
+            "22",
+            "ANTSIRABE II"
+          ],
+          [
+            "VAKINANKARATRA",
+            "23",
+            "BETAFO"
+          ],
+          [
+            "VAKINANKARATRA",
+            "24",
+            "FARATSIHO"
+          ],
+          [
+            "VAKINANKARATRA",
+            "25",
+            "MANDOTO"
+          ],
+          [
+            "DIANA",
+            "26",
+            "AMBANJA"
+          ],
+          [
+            "DIANA",
+            "27",
+            "AMBILOBE"
+          ],
+          [
+            "DIANA",
+            "28",
+            "ANTSIRANANA I"
+          ],
+          [
+            "DIANA",
+            "29",
+            "ANTSIRANANA II"
+          ],
+          [
+            "DIANA",
+            "30",
+            "NOSY-BE"
+          ],
+          [
+            "SAVA",
+            "31",
+            "ANDAPA"
+          ],
+          [
+            "SAVA",
+            "32",
+            "ANTALAHA"
+          ],
+          [
+            "SAVA",
+            "33",
+            "SAMBAVA"
+          ],
+          [
+            "SAVA",
+            "34",
+            "VOHEMAR"
+          ],
+          [
+            "AMORON'I MANIA",
+            "35",
+            "AMBATOFINANDRAHANA"
+          ],
+          [
+            "AMORON'I MANIA",
+            "36",
+            "AMBOSITRA"
+          ],
+          [
+            "AMORON'I MANIA",
+            "37",
+            "FANDRIANA"
+          ],
+          [
+            "AMORON'I MANIA",
+            "38",
+            "MANANDRIANA"
+          ],
+          [
+            "ATSIMO-ATSINANANA",
+            "39",
+            "BEFOTAKA ATSIMO"
+          ],
+          [
+            "ATSIMO-ATSINANANA",
+            "40",
+            "FARAFANGANA"
+          ],
+          [
+            "ATSIMO-ATSINANANA",
+            "41",
+            "MIDONGY SUD"
+          ],
+          [
+            "ATSIMO-ATSINANANA",
+            "42",
+            "VANGAINDRANO"
+          ],
+          [
+            "ATSIMO-ATSINANANA",
+            "43",
+            "VONDROZO"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "44",
+            "AMBALAVAO"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "45",
+            "AMBOHIMAHASOA"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "46",
+            "FIANARANTSOA"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "47",
+            "ISANDRA"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "48",
+            "IKALAMAVONY"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "49",
+            "VOHIBATO"
+          ],
+          [
+            "HAUTE MATSIATRA",
+            "50",
+            "LALANGINA"
+          ],
+          [
+            "IHOROMBE",
+            "51",
+            "IAKORA"
+          ],
+          [
+            "IHOROMBE",
+            "52",
+            "IHOSY"
+          ],
+          [
+            "IHOROMBE",
+            "53",
+            "IVOHIBE"
+          ],
+          [
+            "VATOVAVY",
+            "54",
+            "IFANADIANA"
+          ],
+          [
+            "FITOVINANY",
+            "55",
+            "IKONGO"
+          ],
+          [
+            "FITOVINANY",
+            "56",
+            "MANAKARA"
+          ],
+          [
+            "VATOVAVY",
+            "57",
+            "MANANJARY"
+          ],
+          [
+            "VATOVAVY",
+            "58",
+            "NOSY VARIKA"
+          ],
+          [
+            "FITOVINANY",
+            "59",
+            "VOHIPENO"
+          ],
+          [
+            "BETSIBOKA",
+            "60",
+            "KANDREHO"
+          ],
+          [
+            "BETSIBOKA",
+            "61",
+            "MAEVATANANA"
+          ],
+          [
+            "BETSIBOKA",
+            "62",
+            "TSARATANANA"
+          ],
+          [
+            "BOENY",
+            "63",
+            "AMBATO BOENI"
+          ],
+          [
+            "BOENY",
+            "64",
+            "MAHAJANGA I"
+          ],
+          [
+            "BOENY",
+            "65",
+            "MAHAJANGA II"
+          ],
+          [
+            "BOENY",
+            "66",
+            "MAROVOAY"
+          ],
+          [
+            "BOENY",
+            "67",
+            "MITSINJO"
+          ],
+          [
+            "BOENY",
+            "68",
+            "SOALALA"
+          ],
+          [
+            "MELAKY",
+            "69",
+            "AMBATOMAINTY"
+          ],
+          [
+            "MELAKY",
+            "70",
+            "ANTSALOVA"
+          ],
+          [
+            "MELAKY",
+            "71",
+            "BESALAMPY"
+          ],
+          [
+            "MELAKY",
+            "72",
+            "MAINTIRANO"
+          ],
+          [
+            "MELAKY",
+            "73",
+            "MORAFENOBE"
+          ],
+          [
+            "SOFIA",
+            "74",
+            "ANALALAVA"
+          ],
+          [
+            "SOFIA",
+            "75",
+            "ANTSOHIHY"
+          ],
+          [
+            "SOFIA",
+            "76",
+            "BEALANANA"
+          ],
+          [
+            "SOFIA",
+            "77",
+            "BEFANDRIANA NORD"
+          ],
+          [
+            "SOFIA",
+            "78",
+            "MAMPIKONY"
+          ],
+          [
+            "SOFIA",
+            "79",
+            "MANDRITSARA"
+          ],
+          [
+            "SOFIA",
+            "80",
+            "PORT-BERGE"
+          ],
+          [
+            "ALAOTRA-MANGORO",
+            "81",
+            "AMBATONDRAZAKA"
+          ],
+          [
+            "ALAOTRA-MANGORO",
+            "82",
+            "AMPARAFARAVOLA"
+          ],
+          [
+            "ALAOTRA-MANGORO",
+            "83",
+            "ANDILAMENA"
+          ],
+          [
+            "ALAOTRA-MANGORO",
+            "84",
+            "ANOSIBE AN'ALA"
+          ],
+          [
+            "ALAOTRA-MANGORO",
+            "85",
+            "MORAMANGA"
+          ],
+          [
+            "ANALANJIROFO",
+            "86",
+            "FENERIVE EST"
+          ],
+          [
+            "ANALANJIROFO",
+            "87",
+            "MANANARA-NORD"
+          ],
+          [
+            "ANALANJIROFO",
+            "88",
+            "MAROANTSETRA"
+          ],
+          [
+            "ANALANJIROFO",
+            "89",
+            "SAINTE MARIE"
+          ],
+          [
+            "ANALANJIROFO",
+            "90",
+            "SOANIERANA IVONGO"
+          ],
+          [
+            "ANALANJIROFO",
+            "91",
+            "VAVATENINA"
+          ],
+          [
+            "ATSINANANA",
+            "92",
+            "ANTANAMBAO MANAMPONTSY"
+          ],
+          [
+            "ATSINANANA",
+            "93",
+            "BRICKAVILLE"
+          ],
+          [
+            "ATSINANANA",
+            "94",
+            "MAHANORO"
+          ],
+          [
+            "ATSINANANA",
+            "95",
+            "MAROLAMBO"
+          ],
+          [
+            "ATSINANANA",
+            "96",
+            "TOAMASINA I"
+          ],
+          [
+            "ATSINANANA",
+            "97",
+            "TOAMASINA II"
+          ],
+          [
+            "ATSINANANA",
+            "98",
+            "VATOMANDRY"
+          ],
+          [
+            "ANDROY",
+            "99",
+            "AMBOVOMBE ANDROY"
+          ],
+          [
+            "ANDROY",
+            "100",
+            "BEKILY"
+          ],
+          [
+            "ANDROY",
+            "101",
+            "BELOHA ANDROY"
+          ],
+          [
+            "ANDROY",
+            "102",
+            "TSIHOMBE"
+          ],
+          [
+            "ANOSY",
+            "103",
+            "AMBOASARY SUD"
+          ],
+          [
+            "ANOSY",
+            "104",
+            "BETROKA"
+          ],
+          [
+            "ANOSY",
+            "105",
+            "TAOLANARO"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "106",
+            "AMPANIHY OUEST"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "107",
+            "ANKAZOABO SUD"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "108",
+            "BENENITRA"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "109",
+            "BEROROHA"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "110",
+            "BETIOKY SUD"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "111",
+            "MOROMBE"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "112",
+            "SAKARAHA"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "113",
+            "TOLIARA I"
+          ],
+          [
+            "ATSIMO-ANDREFANA",
+            "114",
+            "TOLIARA II"
+          ],
+          [
+            "MENABE",
+            "115",
+            "BELO SUR TSIRIBIHINA"
+          ],
+          [
+            "MENABE",
+            "116",
+            "MAHABO"
+          ],
+          [
+            "MENABE",
+            "117",
+            "MANJA"
+          ],
+          [
+            "MENABE",
+            "118",
+            "MIANDRIVAZO"
+          ],
+          [
+            "MENABE",
+            "119",
+            "MORONDAVA"
+          ]
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/consultation-resultats-bacc?category=education",
+    "title": "Fijerena valina BACC Fanabeazana",
+    "scraped_at": "2026-02-26T15:37:58.176447",
+    "description": "Tsindrio ny rohy raha hijery valim-panadinana bakalorea : ",
+    "listes_supplementaires": [
+      {
+        "title": "valim-panadinana bakalorea ANTSIRANANA",
+        "items": [
+          "https://bacc.digital.gov.mg/?province=antsiranana"
+        ]
+      },
+      {
+        "title": "valim-panadinana bakalorea FIANARANTSOA",
+        "items": [
+          "https://bacc.univ-fianarantsoa.mg"
+        ]
+      },
+      {
+        "title": "valim-panadinana bakalorea MAHAJANGA",
+        "items": [
+          "https://bacc.digital.gov.mg/?province=mahajanga"
+        ]
+      },
+      {
+        "title": "valim-panadinana bakalorea TOAMASINA",
+        "items": [
+          "https://bacc.univ-toamasina.mg/"
+        ]
+      },
+      {
+        "title": "valim-panadinana bakalorea TOLIARA",
+        "items": [
+          "https://bacc.digital.gov.mg/?province=toliara"
+        ]
+      },
+      {
+        "title": "Université d'Antsiranana",
+        "items": [
+          "https://www.facebook.com/unantsiranana201"
+        ]
+      },
+      {
+        "title": "Université de Fianarantsoa",
+        "items": [
+          "https://www.facebook.com/univfianarantsoa"
+        ]
+      },
+      {
+        "title": "Université de Mahajanga",
+        "items": [
+          " https://www.facebook.com/baccmahajanga2023"
+        ]
+      },
+      {
+        "title": "Université de Toamasina",
+        "items": [
+          "https://web.facebook.com/profile.php?id=100063784965980"
+        ]
+      },
+      {
+        "title": "Université de Toliara",
+        "items": [
+          "https://web.facebook.com/profile.php?id=100095708073810"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/obtenir-sa-carte-nationale-d-identite?category=citoyennete",
+    "title": "Kara-panondrom-pirenena Zom-pirenena: Fangatahana kara-panondro voalohany 18 taona katroka na mihoatra",
+    "scraped_at": "2026-02-26T15:38:02.084641",
+    "description": "Olon-dehibe ve ianao? Mila dika mitovy ve ianao? Ireto ny dingana hahazoana ny kara-panondro-nao: Fangatahana kara-panondro voalohany 18 taona katroka na mihoatra",
+    "etapes": [
+       {
+        "title": "Dingana 1 : maka kopia na bulletin de naissance",
+        "centre_traitement": "Eny amin'ny firaisana nahaterahana no maka kopia na \"acte de naissance\".",
+        "documents_requis": [
+          "Kopia na \"bulletin de naissance latsaky ny 3 volana Eny amin'ny firaisana nahaterahana no maka kopia na \"acte de naissance\".",
+          "Afaka avaozina eny amin'ny tribonaly raha lany daty.",
+          "Ny taratasy hilaina raha haka kopia dia boky soram-piankohonana sy fanamarinana toeram-ponenana na kopia efa lany daty."
+        ]
+      },
+      {
+        "title": "Dingana 2 : maka fanamarinana toeram-ponenana",
+        "centre_traitement": "Ny fanamarinana toeram-ponenana dia alaina eny anivon'ny fokontany izay ipetrahana.",
+        "documents_requis": [
+          "fanamarinana toeram-ponenana misy sary tapaka latsaky ny 3 volana",
+          "Taratasy hilaina : boky soram-piankohonana na bileta filazam-pahaterahana tsotra \"bulletin de naissance\"",
+          "Sarany : 200-1000 ariary"
+        ]
+      },
+      {
+        "title": "Dingana 3 : maka sary tapaka",
+        "centre_traitement": "",
+        "documents_requis": "Ny tarehy dia tsy maintsy mazava tsara ary madio. Tsy manao rojo, tsy manao kavina, tsy manao solomaso, mampiseho tsara ny handriny sy ny sofina, ny volo mifatotra, tsy manao akanjo mampiseho sandry."
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/obtenir-sa-carte-nationale-d-identite?category=citoyennete",
+    "title": "Kara-panondrom-pirenena Zom-pirenena: Dikasolo Very",
+    "scraped_at": "2026-02-26T15:38:02.084641",
+    "description": "Olon-dehibe ve ianao? Mila dika mitovy ve ianao? Ireto ny dingana hanoloana azy.",
+    "etapes": [
+      {
+        "title": "Dingana 1 : fanambarana fahaverezana",
+        "centre_traitement": "Alaina eny amin'ny biraon'ny polisy akaiky indrindra",
+        "documents_requis": [
+          "(01) fanambarana \"déclaration de perte\" latsaky ny 1 volana"
+        ]
+      },
+      {
+        "title": "Dingana 2 : dika mitovy ny fiche mère",
+        "centre_traitement": "Ny \"fiche mère\" dia alaina eny amin'ny firaisana izay nanaovana ny kara-panondro voalohany.",
+        "documents_requis": [
+          "Ho an'ny TANA I. Mila mandalo ny district TANA I miaraka ny taratasy :",
+          "TLO varavarana 13",
+          "kaopia (01)",
+          "sary tapaka (02)",
+          "fotokopia CNI (01)",
+          "fanamarinam-ponenana misy sary tapaka latsaky ny 1 volana"
+        ]
+      },
+      {
+        "title": "Dingana 3 :  Fotokopia CNI na Kopia",
+        "centre_traitement": "",
+        "documents_requis": "(01) fotokopia CNI very + (01) kopia na \"bulletin de naissance\" latsaky ny 3 volana"
+      },
+      {
+        "title": "Dingana 4 : Maka fanamarinana toeram-ponenana misy sary tapaka",
+        "centre_traitement": "",
+        "documents_requis": "(01) fanamarinana toeram-ponenana misy sary tapaka latsaky ny 1 volana"
+      },
+      {
+        "title": "Dingana 5 : fanambarana ankarihary tsy misy fitaka alaina eny amin'ny Biraon'ny Distrikan'Antananarivo",
+        "centre_traitement": "biraon'ny distrika",
+        "documents_requis": "(01) fanambarana ankarihary tsy misy fitaka alaina eny amin'ny biraon'ny distrika"
+      },
+      {
+        "title": "Dingana 6 : maka sary tapaka",
+        "centre_traitement": "",
+        "documents_requis": [
+          "(03) sary tapaka",
+          "Ny tarehy dia tsy maintsy mazava tsara ary madio. Tsy manao rojo, tsy manao kavina, tsy manao solomaso, mampiseho tsara ny handriny sy ny sofina, ny volo mifatotra, tsy manao akanjo mampiseho sandry."
+        ]
+      },
+      {
+        "title": "Dingana 7 :  kopia na \"bulletin de naissance\" + karatra maha mpifidy",
+        "centre_traitement": "",
+        "documents_requis": "(01) kopia na \"bulletin de naissance\" latsaky ny 3 volana + karatra maha mpifidy"
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+   {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/obtenir-sa-carte-nationale-d-identite?category=citoyennete",
+    "title": "Kara-panondrom-pirenena Zom-pirenena: Dikasolo Fahasimbana",
+    "scraped_at": "2026-02-26T15:38:02.084641",
+    "description": "Olon-dehibe ve ianao? Mila dika mitovy ve ianao? Ireto ny dingana hanoloana azy.",
+    "etapes": [
+      {
+        "title": "Dingana 1 :  CIN",
+        "centre_traitement": "",
+        "documents_requis": [
+          "CIN"
+        ]
+      },
+      {
+        "title": "Dingana 2 : dika mitovy ny fiche mère",
+        "centre_traitement": "Ny fiche mère dia alaina any amin’ny Kaominina (Mairie) izay nanaovana voalohany ny CIN very, ary ho an’ireo izay nanao izany tany ivelan’i TANA I ihany.",
+        "documents_requis": [
+          "Mba hahazoana ny fiche mère, dia tsy maintsy mandalo any amin’ny Distrika aloha."
+        ]
+      },
+      {
+        "title": "Dingana 3 : Maka dika mitovy na kopia amin’ny sora-pahaterahana",
+        "centre_traitement": "Ny dika mitovy na sora-pahaterahana dia alaina any amin’ny Kaominina araka ny toerana nahaterahana.",
+        "documents_requis": "Ary mba hahazoana dika mitovy amin’ny sora-pahaterahana dia ilaina ny bokim-pianakaviana sy/na taratasy fanamarinam-ponenana, na koa dika mitovy taloha amin’ny sora-pahaterahana."
+      },
+      {
+        "title": "Dingana 4 : Maka taratasy fanamarinam-ponenana",
+        "centre_traitement": "Ny taratasy fanamarinam-ponenana dia azo alaina ao amin’ny Fokontany izay onenana, ka mitondra bokim-pianakaviana na sora-pahaterahana.",
+        "documents_requis": [
+          "(01) Taratasy fanamarinam-ponenana misy sary tapakila (latsaky ny 01 volana)",
+          "Ny taratasy fanamarinam-ponenana dia azo alaina ao amin’ny Fokontany izay onenana, ka mitondra bokim-pianakaviana na sora-pahaterahana.",
+          "Ny saran’ny famoahana io taratasy io dia eo anelanelan’ny 200 ka hatramin’ny 1000 Ariary."
+        ]
+      },
+      {
+        "title": "Dingana 5 : Maka sary tapa",
+        "centre_traitement": "",
+        "documents_requis": [
+          "Tokony haseho mazava tsara ny tarehy, tsy misy sakana, mazava ary madio.",
+          "Tsy mahazo manao rojo, kavina, na solomaso.",
+          "Tokony hiseho tsara ny handrina sy ny sofina, afatotra ny volo, ary tsy mahazo manao akanjo mampiseho sandry."
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-maladies-non-transmissibles?category=sante",
+    "title": "Ireo aretina tsy mifindra Fahasalamana: ALIZEIMERA",
+    "scraped_at": "2026-02-26T15:38:05.344669",
+    "description": "Aretina mivoatra izay manimba ny fitadidiana sy ireo singa ara-tsaina lehibe hafa.",
+    "documents_requis": [
+      "Fahaverezan'ny fitadidiana izay manakorontana ny fiainana andavanandro.",
+      "Fahasarotan'ny fandaminana na ny famahana olana.",
+      "Fahasarotan'ny fanatanterahana ny raharaha andavanandro ao an-tokantrano, any am-piasana..",
+      "Fifangaroana eo amin'ny fotoana na ny toerana.",
+      "Fahasarotan'ny fahazoana ny kisarisary sy ny fifandraisan'ny toerana.",
+      "Olana vaovao momba ny fiteny na fanoratra"
+    ],
+    "centre_traitement": "ONG Masoandro Mody any Fenomanana Mahazoarivo Antananarivo",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fisorohana, Fitsaboana ary Antony mety miharo",
+        "items": [
+          "Fihinanana sakafo ara- pahasalamana sy voalanjalanja,",
+          "Fialana amin’ny fifohana sigara sy ny fisotrona zava pisotro misy alikaola ary ny fandraisana zava-mahadomelina,",
+          "Fampiasam-batana : fanaovana fanatajahantena, fanajana ny torimaso ho aradalana,",
+          "Fanaovana fanazaran-tsaina hitaizana ny fitadidiana : famakiana boky, fanaovana kilalao mampiasa saina (kajy, ...)",
+          "Fifehezana ny fihetseham-po (hafaliana na alahelo diso tafahoatra)",
+          "Fandraisana anjara amin’ireo hetsika ara tsosialy samihafa ahafahana mifandray amin’ny fiaraha-monina"
+        ]
+      },
+      {
+        "title": "Antony mety mampidi-doza",
+        "items": [
+          "Aretina mpahazo ny olona efa nahazo taona, miohatra ny 65 taona"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-maladies-non-transmissibles?category=sante",
+    "title": "Ireo aretina tsy mifindra Fahasalamana: AVC",
+    "scraped_at": "2026-02-26T15:38:05.344669",
+    "description": "Ny fahatapahana lalandrà a ny amin'ny loha, AVC, dia fihatoan'ny fikorinan'ny ra tampoka mankany amin'ny atidoha",
+    "centre_traitement": "Ireo CSB na ireo hôpitaly manana ny plateau technique momba ny prise en charge ary tsindrina manokana ny servisy misahana ny neurologie raha misy",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fambara ",
+        "items": [
+          "Fahalemena tanteraka na ampahany. Matetika dia amin'ny ilany vatana izy io : ny sandry ilany, ny tongotra ilany, ny ilan-tava dia tsy matanjaka, tsy mahetsika.",
+          "Fahaverezan'ny fahatsapan'ny sandry, ny tongotra, ny tarehy na ny ila manontolon'ny vatana.",
+          "Fambara tsy fahafahana miteny : misy fahasahiranana amin'ny firesahana mazava ilay olona.",
+          "Tsy fahitana tampoka amin'ny maso iray na izy roa. Mety ho toa ny mahita mainty ny zavatra rehetra izy.",
+          "Aretin'andoha mahery, tsy misy antony mazava."
+        ]
+      },
+      {
+        "title":"Misy famantarana hafa mety ho hita",
+        "items": [
+          "Verivery saina sy lasam-borona tampoka : tsy hain'ilay olona oe andro inona anio",
+          "Mihavery ny fiheverana",
+          "Sarotra ny fiteleman-javatra",
+          "Tsy fitovian'ny anakandriamaso na fijery tsy mahitsy."
+        ]      
+      },
+      {
+        "title": "Fisorohana, Fitsaboana ary Antony mety miharo",
+        "items": [
+          "Raha toa ka tsy ampoizina tanteraka ny fahatapahan'ny lalandrà vokatry ny fahasamponana, dia azo andraisana andraikitra kosa ireo antony hafa mahatonga ny AVC:",
+          "Fisorohana ny fiakaran'ny tosidrà (fanarahamaso ara-potoana)",
+          "Ny fiakaran'ny tosidrà dia tokony ho raisina am-pahamatorana",
+          "Tsy maintsy araha-maso ny tahan'ny kolesterola",
+          "Tsy azo ovaovaina raha tsy nahazoana alalana avy amin'ny mpitsabo ireo fitsaboana ireo"
+        ]
+      },
+      {
+        "title": "Antony mety mampidi-doza",
+        "items": [
+          {
+            "title1": "Antony mety mampidi-doza tsy afaka ovaina tsy azo ialana",
+            "items1": [
+              "Taona : ny AVC dia mety hitranga amin'ny salan-taona rehetra, na dia amin'ny ankizy aza. Ireo olona efa nahazo taona anefa no mety ho voa kokoa.",
+              "Fananahana : amin'ny lehilahy no mateti-pitranga ny AVC, saingy efa mihamaro koa ireo vehivavy no maty vokatr'io.",
+              "Manaranaka : manana tarazom-pianakaviana mikasika ny fiakaran'ny tosidrà sy/na ny AVC",
+              "Fiaviana : avy amin'ny firenena afrikana na aziatika"
+            ]
+          },
+          {
+            "title1": "Antony mety mampidi-doza afaka ovaina azo ialana",
+            "items1": [
+              "Fifohan-tsigara",
+              "Fiakaran'ny tosidrà",
+              "Dysplidémie : fiangonan'ny menaka ambony ao anatin'ny rà",
+              "Diabeta",
+              "Aretim-po",
+              "Tsy fahatomombanana eo amin'ny fivaingan'ny rà (thrombophilie)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-maladies-non-transmissibles?category=sante",
+    "title": "Ireo aretina tsy mifindra Fahasalamana: HOMAMIADANA",
+    "scraped_at": "2026-02-26T15:38:05.344669",
+    "description": "",
+    "centre_traitement": "ONG Masoandro Mody any Fenomanana Mahazoarivo Antananarivo",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ahoana no hanenana ny vesatry ny homamiadana?",
+        "items": [
+          {
+            "title1": "Fisorohana",
+            "items1": [
+              "Alavirina ireo mety ho antony mampidi-doza",
+              "Manao vaksiny amin'ny HPV ho fisorohana ny homamiadan'ny tranon-jaza (zazavavy 9 hatramin'ny 13 taona)",
+              "Manao fitiliana dieny mbola kely",
+              "Firaisana ara-nofo voaaro",
+              "Vady tokana"
+             ]
+          }
+        ]
+      },
+      {
+        "title": "Antony mety mampidi-doza",
+        "items": [
+          "Ampahatelon'ny fahafatesana vokatry ny homamiadana dia noho ireo antony dimy momba ny fotondran-tena sy ny sakafo",
+          "Taha avon'ny hadirim-batana \"fahatavezana\"",
+          "Tsy fihinanana voankazo sy legioma betsaka",
+          "Tsy faaovana fanetseham-batana \"fidonanana\"",
+          "Fifohan-tsigara san fihinanam-paraky",
+          "Fampiasana na fisotroana alikaola tsy ara-drariny",
+          "Ny fitaninana andro ela loatra",
+          "Ny fihinanana akora simika matetika sy tafahoatra (charcuterie, sakafo am-by fotsy, zava-pisotro misy gaz,...)",
+          "Ny fanatrehana tara-javatra (radiations)"
+        ]
+      },
+      {
+        "title": "Ireo antony mety hahavoan'ny homamiadan'ny vozon-tranonjaza",
+        "items": [
+          "Fanaovana firaisana ara nofo aloha loatra ( latsaky ny 18 taona)",
+          "Firaisana ara nofo amin'olona maro",
+          "Miteraka maro loatra",
+          "Aretina azo avy amin'ny firaisana ara-nofo tsy voatsabo",
+          "Fifohana sigara (paraky)",
+          "Fihenan'ny hery fiarovana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/acte-de-mariage-et-livret-de-famille?category=etat-civil",
+    "title": "Raki-tsoram-panambadiana sy bokim-pianakaviana Soram-piankohonana",
+    "scraped_at": "2026-02-26T15:38:10.381220",
+    "description": "Ny sora-panambadiana dia antontan-taratasy ara-dalàna sy manan-kery, izay avoakan’ny tompon’andraikitry ny fanjakana misahana ny sora-piankohonana (officier d’état civil) mandritra ny fanatanterahana ny fanambadiana ara-panjakana.Noho izany dia antontan-taratasy ara-pitsarana izy io, izay manamarina ny sata ara-piankohonan’ny mpivady.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "description": [],
+        "documents_requis": [],
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ny fepetra takiana ahafahana miroso amin’ny fanambadiana sivily eto Madagasikara",
+        "description": [],
+        "documents_requis": [],
+        "items": [
+          "Voalohany, tsy maintsy manome ny fanekena feno ny roa tontaa",
+          "Tsy tokony manambady ny roa tonta, midika izany fa samy mpitovo eo anatrehan’ny lalàna",
+          "Tsy maintsy 18 taona farafahakeliny ny roa tonta. Na izany aza, azo atao ny maningana amin'ny fandraisan'anjaran'ny zaza tsy ampy taona raha misy fanekena an-tsoratra avy amin'ny ray aman-dreny na mpiambina ara-dalàna.",
+          "Tsy tokony hisy fifamatorana ara-pianakaviana eo amin’ny roa tonta",
+          "Tsy nisy olona nametraka fanoherana momba ny fanambadian'ny roa tonta",
+          "Raha lazaina amin'ny teny hafa, ny lalàna dia mitaky ny faneken'ny mpivady, satria ny fanambadiana an-tery dia mandika ny zo fototra toy ny maha-olona sy ny fahafahan'ny tsirairay. Izany dia manazava ny ilana ny roa tonta ho matotra (mba handray andraikitra feno amin'ny zavatra ataony).",
+          "Koa satria tsy eken'ny lalàna malagasy ny fananana vady maro, dia tsy maintsy mpitovo ny mpivady. Raha manambady ny andaniny sy ny ankilany, dia tsy maintsy rava tamin'ny fisaraham-panambadiana izany fanambadiana izany na, raha maty vady , dia tsy maintsy omena taratasy fanamarinam-pahafatesan'ny vadiny taloha."
+        ]
+      },
+      {
+        "title": "Ny taratasy omena mba hahazoana taratasy fanamarinana mariazy",
+        "description": "Marihina fa eo amin’ny ambaratongan’ny “Firaisana” izay misy ny iray amin’ireo roa tonta farafahakeliny no hanaovana ny soratra. Rehefa voafaritra ny Firaisana, dia afaka miroso amin'ny taratasy",
+        "documents_requis": [
+          {
+            "title1": "Omen'ny lahy sy ny vavy",
+            "items1": [
+              "Taratasy fanamarinana maha mpitovo",
+              "Taratasy fanamarinam-ponenana",
+              "kopia nahaterahana latsaky ny 6 volana",
+              "Sary tapaka vao haingana"
+            ]
+          },
+          {
+            "title1": "Taratasy fanampiny",
+            "items1": [
+              "Ny kopia ara-dalàna amin'ny kara-panondrom-pirenena (CNI) an'ny mpivady sy ny vavolombelona roa. Ireo roa farany dia mety takiana ny kopia nahaterahany.",
+              "Taratasy fangataham-panambadiana « mariage civil » alaina mialoha any amin'ny Firaisana, fenoina sy nosoniavin’ny mpivady ary ny vavolombelona.",
+              "valopy misy hajia 4",
+              "10.000 Ariary hatramin’ny 40.000 Ariary, izay miankina amin’ny andro sy ny Firaisana hanaovana ny soratra (fantatra fa ny fanaovana soratra amin’ny asabotsy dia lafo kokoa noho ny andro fiasana)."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fanazavana",
+        "description": [
+          "Zava-dehibe ny mahafantatra fa, toy izany koa amin'ny fanomezana ny antontan-taratasy, ny habetsaky ny adidy tokony aloa dia mety miovaova arakarakin'ny Firaisana. Tsy mihoatra ny 60.000 Ar anefa ny vola amin’ny ankapobeny ary mety hilana antontan-taratasy hafa arakaraka ny zava-misy. Ny antontan-taratasy feno dia tsy maintsy apetraka 15 hatramin'ny 20 andro mialoha ny datin'ny soratra nokasaina",
+          "Nandritra ny lanonana dia voarakitra an-tsoratra ao amin’ny kahie Firaisana iray ny fampahafantarana manan-danja maro toy ny daty, ny laharan’ny fisoratana anarana amin’ny fanambadiana, ny mombamomba ny mpivady ary koa ny vavolombelona sy ny solontenan’ny ben’ny tanàna, ny fomba fitsinjarana ny fananana nofidin’ny mpivady sy ny hafa. , izay hosoniavin’ny olona rehetra voakasika.",
+          "Farany, amin’ny fiafaran’ny fankalazana dia omena ny mpivady ny “bokim-pianakaviana” na ny firaketana an-tsoratra momba ny fianakaviana sy ny dika mitovy amin’ny “sora-piankohonana” na ny taratasy fanamarinana mariazy."
+        ],
+        "documents_requis": [],
+        "items": []
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/permis-de-conduire-medical?category=conduite-et-transport",
+    "title": "Fahazoan-dàlana mitondra fiara (Médical) Fifamoivoizana sy fitaterana",
+    "scraped_at": "2026-02-26T15:38:13.449782",
+    "description": "Natokana ho an'izay manana fahazoan-dàlana mitondra fiara (Médical) izay tapitra ny fe-potoana maha-ara-dalàna azy.",
+    "etapes": [
+      "Fandoavana ny saran-draharaha eo amin'ny birao fandraisana",
+      "Mandray ny taratasy fanamarinana fandoavana saran-draharaha",
+      "Fandoavana 38 000 Ariary ao amin'ny birao 19",
+      "Fampidirana ny anarana sy sokajy ny fahazoan-dàlana mitondra fiara",
+      "Fakana sary sy rantsantanana, sonia elektronika ary fanamarinana alohan'ny fanontana ao amin'ny birao 202",
+      "Fampidirana ny mombamomba ilay mpangataka sy ny fahazoan-dàlana mitondra fiara",
+      "Fikarakarana ny mombamomba ilay mpangataka sy ny fahazoan-dàlana mitondra fiara",
+      "Fanamarinana ny ny mombamomba ilay mpangataka sy ny fahazoan-dàlana mitondra fiara",
+      "Fandaminana ny fandaharam-potoana fanontana ny fahazoan-dàlana mitondra fiara",
+      "Fanontana ao amin'ny birao 24",
+      "Fanomezana fahazoan-dàlana mitondra fiara eo amin'ny birao 24"
+    ],
+    "documents_requis": [
+      "dika mitovin'ny kara-panondro voamarina",
+      "taratasy fanamarinana ara-pahasalamana avy amin'ny BMH na HJRA,",
+      "taratasy fanamarinam-ponenana"
+    ],
+    "temps_traitement": "45 andro ho an'ireo latsaky ny 60 taona ary 1 andro ho an'ireo 60 taona mihoatra",
+    "centre_traitement": "Centres Immatriculateurs des six provinces Ambohidahy, birao 24",
+    "frais_service": "Saran’ny fisoratana anarana amin’ny fanitarana ny fahazoan-dàlana mitondra fiara (fahazoan-dàlana mitondra fiara biometrika) : 38000 MGA",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/choisir-la-forme-juridique-de-votre-entreprise?category=entreprises-et-industries",
+    "title": "Safidio ny sata ara-dalàna mety amin'ny orinasanao Orinasa sy indostria",
+    "scraped_at": "2026-02-26T15:38:20.420740",
+    "description": "Misy karazanany valo ny endrika isaloran'ny orinasa eto Madagasikara. Raha fantatra mazava ny tetik'asa iray dia mora fantarina ny safidy mifanaraka tsara aminy. SA: Société Anonyme pouvant être Unipersonnelle (SAU)",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ireo karazana endrika isaloran'ny orinasa",
+        "items":[
+          "EI : Entreprise Individuelle",
+          "GIE : Groupement d'Intérêt Economique",
+          "SA : Société Anonyme pouvant être Unipersonnelle (SAU)",
+          "SARL : Société à Responsabilité Limitée pouvant être Unipersonnelle (SARLU)",
+          "SC : Société Civile",
+          "SCS : Société en Commandite Simple",
+          "SDET : Société de Droit ETranger",
+          "SNC : Société en Nom Collectif"
+        ]
+      },
+      {
+        "title": "Raha mila fanazavana fanampiny sy torolalana",
+        "items":[" Jereo ny antsipiriany ao amin' ny tranonkalan'ny EDBM natokana ho an'ny orinasa."]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/creer-sa-societe?category=entreprises-et-industries",
+    "title": "Fananganana orinasa Orinasa sy indostria",
+    "scraped_at": "2026-02-26T15:38:25.542698",
+    "description": "Ny fananganana orinasa dia iray amin’ireo fepetra lehibe handrefesana ny fahombiazan’ny tolotra omen’ny fanjakana.",
+    "etapes":[
+      {
+        "title": "Fananganana orinasa – Dingana faha-1: Misafidy endrika ara-dalàna.",
+        "description": [
+          "Misy ny orinasa raha vantany vao misy tetikasa apetraka, izay tanjony dia hahazoana vola ary misy olona hafa tafiditra ao, na inona na inona habeny sy na dia tsotra aza ny asa atao.Mba ho ara-dalàna, dia zava-dehibe ny fanamarinana sy fanoratana ara-panjakana izany asa izany, izany hoe mahazo ireo famantarana sy fisoratana anarana ilaina eny amin’ny fitondram-panjakana.Mba hanaovana izany dia ilaina aloha ny mamaritra ny endrika ara-dalàna mety indrindra amin’ilay asa atao.Ny endrika ara-dalàna dia mamaritra ny rafitra sy ny fepetra ara-pitsarana hananganana orinasa iray, indrindra ireo toetra fototra (toy ny faharetany, ny renivola, ny fomba fitantanana, sns.), ary koa ny fifandraisana misy eo amin’ny mpiara-miombon’antoka sy ny adidiny manoloana ny orinasa hatsangana."
+        ],
+        "documents_requis": [
+          "Anisan’ireo fepetra tokony hodinihina amin’ny fisafidianana ny endrika ara-dalàna ny:",
+          "Ny finiavana hiara-hiasa na hiara-miombon’antoka.",
+          "Ny fandaminana ara-pananana, izany hoe ny fitantanana ny fananana manokana sy ny fananana ampiasaina amin’ny asa matihanina.",
+          "Ny filàna ara-bola, mba hamantarana ny filàna mety hisy amin’ny fampiasam-bola.",
+          "Ny safidin’ny asa atao.",
+          "Ny fomba fiasan’ny orinasa, indrindra ireo fitsipika momba ny fitantanana izay mety ho henjana kokoa na malefaka kokoa."
+        ]
+      },
+      {
+        "title": "Fananganana orinasa – Dingana faha-2: Mahafantatra ireo dingana arahina (fomba fanao ara-panjakana).**",
+        "description": [
+          "Miovaova arakaraka ny endrika ara-dalàna voafidy ny dingana ara-panjakana ilaina amin’ny fananganana orinasa: na orinasa tsotra (entreprise individuelle) izany na orinasa iombonana (société). Afaka mahita amin’ny antsipiriany ireo dingana takiana ianao amin’ny rohy manaraka: Mahafantatra ny dingana araka ny endrika ara-dalàna. Raha fananganana orinasa iombonana no atao, rehefa voafidy ny endrika ara-dalàna dia afaka manomboka manoratra ny “fifanarahana” na antsoina hoe “statuts”-n’ny orinasa ianao. Ity antontan-taratasy ity no mirakitra ny adidy eken’ny mpiara-miombon’antoka tsirairay sy mamaritra ny zony. Mba hanampiana anao amin’ny fanoratana ny statuts-n’ny orinasa, dia azonao jerena ny fizarana manaraka: Manoratra ny statuts-n’ny orinasa. Misy ihany koa modely statuts arakaraka ny endrika ara-dalàna voafidy, hita ao amin’ny pejy manaraka: Modely antontan-taratasy."
+        ],
+        "documents_requis": []
+      },
+      {
+        "title": "Fananganana orinasa – Dingana faha-3: Manangona ny antontan-taratasy ilaina amin’ny fananganana.",
+        "description": [
+          "Ny fananganana orinasa, na inona na inona endriny, dia mitaky dingana sy fombafomba ara-panjakana tsy maintsy arahina, indrindra amin’ny fanangonana ireo antontan-taratasy ilaina."
+        ],
+        "documents_requis": [
+          "Noho izany, ankoatra ny statuts-n’ny orinasa, ireto avy ireo antontan-taratasy tsy maintsy atolotra:",
+          "Fifanarahana fanofana ara-barotra (contrat de bail commercial) ho an’ny foiben’ny orinasa sy ny toerana iasana;",
+          "Taratasy manamarina mifandraika amin’ny bail commercial: Taratasy fanamarinana ny sata ara-dalàna (CSJ) na taratasy fananan-tany, Taratasy fanamarinana ny fisian’ny trano, Sarintany fanondroana toerana;",
+          "Dika mitovy amin’ny kara-panondron’ny mpitantana monina eto an-toerana, izay tsy maintsy ilaina (gérant / directeur général / administrateur général).",
+          "Mety hiova arakaraka ny toetran’ny orinasa (endrika ara-dalàna, asa atao, sns.) ny lisitry ny antontan-taratasy takiana. Azonao jerena ny lisitra feno mifanaraka amin’izany ao amin’ny fizarana manaraka: Lisitr’ireo antontan-taratasy araka ny endrika ara-dalàna.",
+          "Tokony hojerenao ihany koa raha voafehy ara-dalàna (activité réglementée) ny asa ataonao, satria mety hisy taratasy fanampiny takiana. Jereo ny lisitr’ireo asa voafehy ao amin’ny fizarana manaraka: Lisitr’ireo asa voafehy ara-dalàna.",
+          "Ho an’ny fananganana orinasa, noho ny fisian’ny rafitra nomerika (dématérialisation), dia azo atao ankehitriny ny mandefa mivantana an-tserasera ny antontan-taratasy raha toa ka ao amin’ny faritra Analamanga no misy ny foiben’ny orinasa. Amin’izay tranga izay dia ilaina ny manamarina fa voaova ho rakitra nomerika (numérisation) daholo ireo taratasy manamarina rehetra."
+        ]
+      },
+      {
+        "title": "Fananganana orinasa – Dingana faha-4: Manatanteraka ny dingana fananganana.",
+        "description": [
+          "Ho an’ny orinasa iombonana, ny fanatanterahana ny dingana fananganana dia atao amin’ny Guichets Uniques ao amin’ny EDBM ihany.",
+          "Ho an’ny faritra Analamanga, ny fametrahana ny antontan-taratasy dia atao amin’ny alalan’ny famandrihana fotoana ihany, rehefa voamarina amin’ny alalan’ny fampiharana nomerika (application) ny antontan-taratasy. Jereo eto ny fampiharana: Mandefa antontan-taratasy fananganana orinasa."
+        ]
+      }
+
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+    
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-sites-touristiques-malgaches-classes-au-patrimoine-mondial?category=tourisme-et-voyage",
+    "title": "Ireo toeram-pizahantany malagasy tafiditra ao amin'ny vakoka maneran-tany Fizahan-tany",
+    "scraped_at": "2026-02-26T15:38:29.310180",
+    "description": "Madagasikara dia manankarena amin’ny kolontsaina sy fomba amam-panao ary harena voajanahary miavaka, ahitana zava-kanto, toerana manan-kasina, biby sy zava-maniry tsy fahita firy. Noho ny lanjany manokana dia voasokajy ho lova iraisam-pirenenan’ny UNESCO ireo mba hiarovana azy maharitra ho an’ny taranaka rehetra.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ny vohitr'andriana ao Ambohimanga",
+        "items": [
+          "Ny Zafimaniry, monina any amin’ny tendrombohitra atsimo atsinanan’Ambositra, dia malaza amin’ny haikanto fanorenana sy fanaingoana hazo voasokitra miavaka, izay voasokajy ho lova iraisam-pirenena an’ny UNESCO tamin’ny 2008. Ireo trano sy kojakoja vita amin’ny hazo, misy sary famantarana masina, dia maneho ny kolontsaina sy ny fifandraisan’izy ireo akaiky amin’ny zavaboary."
+        ]
+      },
+      {
+        "title": "Ny vohitr'andriana ao Ambohimanga",
+        "items": [
+          "Ny Vohitr’Ambohimanga dia renivohitra ara-pivavahana sy ara-politikan’ny Fanjakan’i Madagasikara tamin’ny taonjato faha-19, ary mbola toerana manan-kasina sy ara-panahy ankehitriny, maneho ny maha-malagasy sy ny tantara fahagola. Ahitana tananan’andriana, fasan’andriana ary toerana masina izy, vavolombelon’ny kolontsaina austronésienne sy ny fomba nentin-drazana efa ho 500 taona."
+       ]
+      },
+      {
+        "title": "Ny valan-javaboary nasionaly Tsingin'i Bemaraha",
+        "items":[
+          "Ny Tsingy de Bemaraha, any amin’ny 300 km andrefan’Antananarivo, dia iray amin’ireo toerana mahavariana indrindra eto Madagasikara ary voasoratra ho lova iraisam-pirenenan’ny UNESCO tamin’ny 1990. Ity lembalemba vato sokay ity, ao anatin’ny Valan-javaboary Nasionalin'i Bemaraha, dia natsangan’ny fiovan’ny ranomasina sy ny asan’ny orana nandritra ny an-tapitrisany taona, ka mamorona lempona sy lavaka lalina mampiavaka azy ary mahatonga azy ho toerana fizahantany tsy manam-paharoa."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboary nasionalin'ny havoanan'i Marojejy",
+        "items": [
+          "Ny Valan-javaboary Nasionalin'i Marojejy, any avaratra atsinanan’i Madagasikara eo anelanelan’Andapa sy Sambava, dia toerana voajanahary miavaka ahitana vohitra avo rakotra zavona, ala mikitroka ary haram-bato kanto. Manankarena zavaboary tsy fahita izy, toy ny siketribe, gidro miloko fotsy ary ilay zavamaniry fahagola Takhtajania perrieri, ka mahatonga azy ho iray amin’ireo toerana fizahantany voajanahary tsy maintsy tsidihina eto Madagasikara."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboarin'ny tanjona Masoala",
+        "items": [
+          "Ny Valan-javaboary Nasionalin'i Masoala, any avaratra atsinanan’i Madagasikara, dia faritra voaaro lehibe indrindra eto amin’ny nosy ary voasokajy ho lova iraisam-pirenenan’ny UNESCO tamin’ny 2007 noho ny harena voajanahary miavaka ao aminy. Ahitana ala sy ranomasina mifandray izy, karazan-javamaniry sy biby tsy fahita firy toy ny vari roux sy aye-aye, ary azo anaovana fitsangatsanganana sy antsitrika, indrindra ao amin’ny Helodranon' Antongila izay ahitana trozona indraindray."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboary nasionaly ao Ranomafana",
+        "items":[
+          "Ny Valan-javaboary Nasionalin'i Ranomafana, akaikin’i Fianarantsoa, dia ala tropikaly mirefy 41.600 hektara ahitana karazan-javaboary sy zavamaniry tsy fahita firy ary efa ho lany tamingana, ka mahatonga azy ho toerana tsy azo ihodivirana eto Madagasikara. Ankoatra ny fitsangatsanganana an-tongotra eny anelanelan’ny tendrombohitra, dia misy dobo rano mafana manodidina ny 38°C koa ao, saingy ilaina ny mitondra akanjo aro orana sy fiarovana amin’ny moka noho ny toetr’andro mando."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboary nasionaly ao Zahamena",
+        "items": [
+          "Ny Valan-javaboary Nasionalin'i Zahamena, any atsinanan’i Madagasikara, dia faritra voaaro sy voasokajy ho lova iraisam-pirenena, manankarena zavamaniry sy biby tsy fahita firy. Ahitana karazam-borona maro (manodidina ny 112), gidro, ramanavy ary zavamaniry miavaka toy ny orkide sy zavamaniry mpihinana bibikely izy, ka mahatonga azy ho iray amin’ireo vala tsara indrindra haneho ny hakanton’ny ala atsinanana."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboarin'ny tendrombohitr'Andringitra",
+        "items": [
+          "Ny Valan-javaboary Nasionalin'Andringitra dia iray amin’ireo lova iraisam-pirenenan’ny UNESCO, ahitana ny tendrombohitra faharoa avo indrindra eto Madagasikara, Imarivolanitra (2.658 m). Manankarena tontolo voajanahary sy zavamananaina tsy manam-paharoa izy, ahitana ala tropikaly, bozaka, riandrano ary toerana ara-kolontsaina, ka mahatonga azy ho iray amin’ireo valanjavaboary kanto indrindra eto amin’ny nosy."
+        ]
+      },
+      {
+        "title": "Ny valanjavaboary ao Andohahela",
+        "items": [
+          "Ny Valan-javaboary Nasionalin'Andohahela dia faritra miavaka ahitana fihaonan’ny toetr’andro telo (mando, maina ary somary mando), ka mahatonga azy hanana zavaboary sy zavamaniry maro tsy fahita firy. Paradisa ho an’ny mpitia natiora izy, azo anaovana fitsangatsanganana, bisikileta an-tendrombohitra ary filasiana, sady voasokajy ho lova iraisam-pirenen’ny UNESCO."
+        ]
+      }
+
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny hetra dia singa iray lehibe izay tsy azo tsinotsinoavina eo amin'ny fiainan'ny orinasa. Azonao jerena ao amin'ny tranonkala natokana ho an'ny orinasa(jereo ity rohy ity)ny andinindininy momba izany (fanazavana, kajikajy, filazana ny hetra) sy ireo adidy miaraka aminy (fitsinjovana sosialy, fiantohana ara-pahasalamana, fampiofanana arak'asa).",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola sy adidy",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "created_at": "Desambra 2020",
+    "updated_at": "Avrily 2024",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola - Hetsika momba ny hetra amin’ny vola miditra",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "typical": [
+      "Hetra isan-taona izay kajiana araka ny vola miditra na ny vokatra azo nandritra ny taom-piasana.",
+      "Tsy maintsy aloan’ny orinasa raha ≥ 400 tapitrisa Ariary ny vola miditra isan-taona (Chiffre d’Affaires).",
+      "Fanamarihana: Ny mpiara-miombon’antoka sy mpitantana manana anjara lehibe (SARL) dia voatery mandoa Hetsika momba ny hetra amin’ny vola miditra na inona na inona karama azony."
+    ],
+    "documents_requis": [
+      "bilan comptable",
+      "compte de résultat (araka ny Fonction & Nature)",
+      "Flux de trésorerie",
+      "fanovàna ny renivola",
+      "états financiers",
+      "lisitr’ireo fandaniana azo atao deductions",
+      "tatitra momba ny amortissements sy provisions",
+      "Droit de communication des tiers."
+    ],
+    "count": [
+      {
+        "title": "Fandoavam-bola aloha (Acompte provisionnel) amin’ny fananganana",
+        "items": [
+          "100.000 Ar → ho an’ny mpanondrana vokatra ara-pambolena sy ala.",
+          "200.000 Ar → ho an’ny asa amin’ny sehatry ny fanabeazana na fahasalamana.",
+          "500.000 Ar → ho an’ny asa ara-pambolena, asa tanana, indostria, fitrandrahana, hotely, fizahantany.",
+          "1.000.000 Ar → ho an’ny orinasa hafa rehetra."
+        ]
+      },
+      {
+        "title": "Minimum amin’ny hetra isan-taona",
+        "items": [
+          "100.000 Ar → mpanondrana vokatra ara-pambolena sy ala.",
+          "200.000 Ar → asa fanabeazana na fahasalamana.",
+          "500.000 Ar + 1% * vola miditra isan-taona HT → asa ara-pambolena, asa tanana, indostria, fitrandrahana, hotely, fizahantany.",
+          "1.000.000 Ar + 1% * vola miditra isan-taona HT → orinasa hafa rehetra."
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Alohan’ny 15 Mey amin’ny taona manaraka (taom-piasana mifarana ny 31 Desambra)."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola - Hetra Synthétique (Impôt Synthétique – IS)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "typical": [
+      "Ny fototra kajiana hetra dia ny vola miditra (Chiffre d’Affaires) azo nandritra ny taom-piasana nifarana.",
+      "Tsy maintsy aloan’ny orinasa raha < 400 tapitrisa Ariary ny vola miditra isan-taona.",
+      "Tsy voatery mandoa TVA.",
+      "Taham-pandoavana: 5%, farafahakeliny 3% raha misy fihenam-bola amin’ny hetra, toy ny: Fihenam-bola 2% amin’ny sandan’ny fividianana entana sy tolotra voarain’ny faktiora ara-dalàna.",
+      "Taham-pandoavana: 5%, farafahakeliny 3% raha misy fihenam-bola amin’ny hetra, toy ny: Fihenam-bola 2% amin’ny fandaniana momba ny karama voambarina, miaraka amin’ny fandoavana IRSA."
+    ],
+    "documents_requis": [
+      "bilan",
+      "compte de résultat araka ny fonction",
+      "compte de résultat araka ny nature",
+      "tabilao momba ny flux de trésorerie."
+    ],
+    "count": [
+      {
+        "title": "Fandoavam-bola aloha (Acompte provisionnel) sy minimum fandoavana",
+        "items": [
+          "16.000 Ar → sehatra voalohany (primary), mpandraharaha kely, mpitatitra tsy manana fiara.",
+          "50.000 Ar → mpanao asa tanana, fivarotana kely, mpivarotra madinika.",
+          "100.000 Ar → asa fizahantany, fitrandrahana, mpanome tolotra.",
+          "150.000 Ar → asa matihanina tsy miankina, asa maromaro, hafa rehetra."
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Alohan’ny 31 Marsa amin’ny taona manaraka (taom-piasana mifarana ny 31 Desambra).",
+          "Ho an’ny orinasa tsotra (entreprises individuelles): Raha CA < 100 tapitrisa Ar → famintinana ny vola miditra sy fandaniana (Récapitulatif des recettes et dépenses).",
+          "Ho an’ny orinasa tsotra (entreprises individuelles): Raha CA eo anelanelan’ny 100 – 200 tapitrisa Ar → états financiers araka ny Système Minimal de Trésorerie."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola - Hetra amin’ny vola miditra amin’ny karama sy mitovy amin’izany(Impôt sur les Revenus Salariaux et Assimilés – IRSA)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "typical": [
+      "Vola alaina amin’ny karaman’ny mpiasa isam-bolana nataon’ny orinasa, izay tokony haloa any amin’ny fitondram-panjakana misahana ny hetra.",
+      "Hetra amin’ny vola miditra ho an’ny mpiara-miombon’antoka mpitantana mitovy anjara na kely anjara."
+      ],
+    "documents_requis": [
+      "bilan",
+      "compte de résultat araka ny fonction",
+      "compte de résultat araka ny nature",
+      "tabilao momba ny flux de trésorerie."
+    ],
+    "count": [
+      {
+        "title": "Fomba kajy",
+        "items": [
+          "Karama hatramin’ny 350.000 Ar → 0% amin’ny karama brut.",
+          "Karama mihoatra ny 350.000 Ar → 20% amin’ny karama brut.",
+          "Farafahakeliny amin’ny fandoavana: 2.000 Ar."
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Fandoavana isam-bolana: ao anatin’ny 15 andro voalohany amin’ny volana manaraka.",
+          "Fandoavana isam-bolana roa: raha latsaky ny 50.000 Ar ny vola isam-bolana.",
+          "Fahazoan-dàlana handoa isam-semestre: ho an’ireo mpandoa hetra eo ambanin’ny rafitra Hetra Synthétique."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Adidin’ny orinasa - Fiahiana ara-tsosialy (Prévoyance sociale)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa tsirairay dia tsy maintsy misoratra anarana ao amin’ny CNaPS (Caisse Nationale de Prévoyance Sociale) ary manampy ny mpiasa amin’ny rafitra hatramin’ny fotoana anaovana ny fanofanana azy ireo.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ny zon’ny mpiasa raisin’ny CNaPS dia mikasika",
+        "items": [
+          "Loza na aretina mifandraika amin’ny asa (accidents de travail ou maladies professionnelles).",
+          "Fialan-tsasatra sy fisotroan-dronono (retraite).",
+          "Fanampiana ara-pianakaviana (prestations familiales).",
+          "Fanomezam-bola amin’ny fahafatesana (allocations décès)."
+        ]
+      },
+      {
+        "title": "Ny fanambarana dia atao isam-telovolana",
+        "items": [
+          "Fandaniana amin’ny mpampiasa: 13% amin’ny karama brut.",
+          "Fandaniana amin’ny mpiasa: 1% amin’ny karama brut."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Adidin’ny orinasa - Fiarovana ara-pahasalamana (Couverture Santé)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa tsirairay dia tsy maintsy miditra amin’ny Service Médical Inter-Entreprises (SMIE) ho an’ny mpampiasa, mba hahazoana fitsaboana ho an’ny mpiasa.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fandraisana anjara",
+        "items": [
+          "Ho an’ny mpampiasa: 5% amin’ny karama brut",
+          "Ho an’ny mpiasa: 1% amin’ny karama brut",
+          "Saran’ny karama ambony indrindra kajiana: 8 heny amin’ny SME, izany hoe 1.600.000 MGA."
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Atao isam-telovolana, ao anatin’ny volana manaraka ny telovolana lasa, amin’ny SMIE mifanaraka: OSTIE, ESIA, AMIT, FUNHECE (Funds Health Center)."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Adidin’ny orinasa - Fampiofanana matihanina (Formation Professionnelle)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny Fonds Malgache pour la Formation Professionnelle (FMFP) dia manome famatsiam-bola ho an’ny fiofanana matihanina azo ampiasain’ny orinasa rehetra ho an’ny mpiasany. Ny fisafidianana ny ivon-toerana fiofanana dia avelan’ny orinasa ho fanapahan-keviny..",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fandraisana anjara",
+        "items": [
+          "Tsy maintsy atao, 1% amin’ny karama brut amin’ny totalin’ny karama.t",
+          "Ny famatsiam-bola ho an’ny fiofanana dia aloa hatramin’ny isan’ny fandraisana anjara voangona (fe-potoana farany indrindra 2 taona)."
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Atao isam-telovolana, ao anatin’ny volana manaraka ny telovolana lasa.",
+          "Fidirana amin’ny famatsiam-bola: amin’ny alalan’ny fandefasana fangatahana miaraka amin’ny plan de formation."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola - Hetra amin’ny vola miditra avy amin’ny renivola azo ampiasaina (Impôt sur les Revenus des Capitaux Mobiliers – IRCM)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "typical": [
+      "Hetra isan-taona izay mihatra amin’ny vola miditra avy amin’ny renivola azo ampiasaina (intérêts, vola miditra sy vokatra rehetra avy amin’ny obligations sy emprunts, sns.).",
+      "Mifanaraka amin’ny orinasa eo ambanin’ny rafitra IR réel."
+      ],
+    "documents_requis": [],
+    "count": [
+      {
+        "title": "Fomba kajy",
+        "items": [
+          "Taham-pandoavana: 20%"
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanambarana",
+        "items": [
+          "Fandoavana isan-taona: alohan’ny 15 Mey amin’ny taona manaraka (taom-piasana mifarana ny 31 Desambra)."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/s-informer-sur-la-fiscalite-d-entreprise?category=entreprises-et-industries",
+    "title": "Fampahafantarana momba ny hetra ho an'ny orinasa Orinasa sy indostria : Hetsika ara-bola - Hetsika momba ny Saram-pampidirana Sandan’asa (Taxe sur la Valeur Ajoutée – TVA)",
+    "scraped_at": "2026-02-26T15:38:33.960913",
+    "description": "Ny orinasa dia mpandray anjara feno amin’ny fiainam-pihariana sy fiainam-piarahamonina eto amin’ny firenena. Tena zava-dehibe ny anjara birikiny amin’ny fitomboan’ny toekarena.",
+    "typical": [
+      "Kajiana araka ny marika na vola miditra azo nandritra ny vanim-potoana isam-bolana, miaraka amin’ny fahafahana manaisotra ny hetra efa aloa amin’ireo fandaniana (charges).",
+      "Tsy maintsy mandoa TVA ny orinasa raha ≥ 400 tapitrisa Ariary ny vola miditra isan-taona."
+      ],
+    "documents_requis": [],
+    "count": [
+      {
+        "title": "Fomba kajy",
+        "items": [
+          "Taham-pandoavana: 20%",
+          "0% ho an’ny fanondranana (exportation)."
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanambarana sy fandoavana",
+        "items": [
+          "Fandoavana isam-bolana: farafahakeliny ny 15 amin’ny volana manaraka ny vanim-potoana kajiana hetra."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/transfert-de-visa?category=citoyennete",
+    "title": "Famindrana visa Zom-pirenena",
+    "scraped_at": "2026-02-26T15:38:38.575534",
+    "etapes": [
+      "dika mitovy ny antontan-taratasy nangatahana voamarina teny anivon'ny kaomina,",
+      "famenoana ny taratasy fampiantranoana sy fiantsorohana voamarina ara-dalàna ao amin'ny kaomina (Raha misy fampiantranoana),",
+      "fanaterana ny antontan-taratasy feno ao amin'ny birao filankevitry ny Minisiteran'ny Atitany,",
+      "famenoana taratasy atao dika mitovy roa ampiarahina amin'ny atotan-taratasy rehetra,",
+      "fandoavana ny saran-draharaha ao amin'ny birao andoavam-bola,",
+      "fandraisana ny visa ao amin'ny birao filankevitra akaikin'ny fandraisana."
+    ],
+    "documents_requis": [
+      "Fangatahana an-tsoratra makany amin'ny Minisitry ny Atitany",
+      "Dika mitovy ny visa sy kara-pivahiniana maharitra (carte de long séjour)",
+      "Dika mitovy ny pasipaoro vaovao voamarina",
+      "Pasipaoro vaovao",
+      "Dika mitovy miisa roa ny taratasy mpanagonana feno."
+    ],
+    "temps_traitement": "2 herinandro ka hatramin'ny 1 volana",
+    "centre_traitement": "Direction de l'immigration et emigration (DIE) - Ministeran'ny atitany",
+    "frais_service": [
+      "3 volana ka hatramin'ny 1 taona : 1 820 944 Ariary,",
+      "1 taona ka hatramin'ny 2 taona : 2 377 925 Ariary,",
+      "2 taona ka hatramin'ny 3 taona : 3 121 884 Ariary,",
+      "3 taona ka hatramin'ny 5 taona : 3 596 471 Ariary,",
+      "5 taona ka hatramin'ny 10 taona : 4 920 119 Ariary,",
+      "Mandrakizay : 1 920 944 Ariary."
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/equivalence-administrative-de-titres-et-diplomes?category=fonction-publique",
+    "title": "Dika mitovy manokana amin’ny fanamarinana ara-panjakana momba ny mari-pahaizana sy diplaoma",
+    "scraped_at": "2026-02-26T15:38:42.858206",
+    "description": "Alohan'ny hanombohanao ny fangatahana dia hamarino raha manana “équivalence administrative” ny maripahaizanao na tsia. Mba hanaovana izany, azonao atao ny mampiasa ny fitaovana amin'ity rohy manaraka ity:fitaovana fikarohana Raha toa ka manana “équivalence administrative” ny maripahaizanao dia ho hitanao manandrify azy eo ireo antontan-taratasy rehetra ilaina amin’ny fangatahana.",
+    "documents_requis": [
+      {
+        "title": "Dingana 1: Manao fikarohana",
+        "description": "Alohan'ny hanombohanao ny fangatahana dia hamarino raha manana “équivalence administrative” ny maripahaizanao na tsia. Mba hanaovana izany, azonao atao ny mampiasa ny fitaovana amin'ity rohy manaraka ity: fitaovana fikarohana\nRaha toa ka manana “équivalence administrative” ny maripahaizanao dia ho hitanao manandrify azy eo ireo antontan-taratasy rehetra ilaina amin’ny fangatahana.",
+        "etape": [
+          "Raha tsy manana “équivalence administrative” ny maripahaizanao dia misy tranga roa.",
+          "Tranga voalohany: Maripahaizana azo teto Madagasikara ny maripahaizanao. Azonao atao ny manontany eny amin’ny sekoly nahazoanao maripahaizana ny amin’ny mety ho antony tsy fisian’ny “équivalence administrative” ho an’ilay maripahaizana.",
+          "Tranga faharoa: Maripahaizana azo tany ivelan’ny Madagasikara Azonao atao ny mangataka “arrêté d’équivalence” amin'ny CNEAT (Commission Nationale des Équivalences Administratives des Titres) alohan'ny hangatahana “équivalence administrative” ho an’ny maripahaizanao."
+        ],
+        "documents_requis": []
+      },
+      {
+        "title": "Dingana 2: Omany ireo antontan-taratasy ilaina",
+        "description": "Omano ireo antontan-taratasy ilaina amin’ny fangatahana izay hita ao amin’ny tranokala sy mifanaraka amin’ny maripahaizanao mba ho voaray ny fangatahana.",
+        "etape": [],
+        "documents_requis": []
+      },
+      {
+        "title": "Dingana 3: Atero ny fangatahana",
+        "description": "Rehefa vonona avokoa ny antontan-taratasy ilaina rehetra dia azonao atao ny mametraka izany ao amin’ny varavarana faha-108 ao amin’ny minisiteran’ny Asa, ny fampananan’asa, ny asam-panjakana ary ny lalàna sosialy (MTEFPLS). \nHo fanamorana ny fametrahana ny fangatahanao dia azonao atao ny mamandrika fotoana mialoha amin'ny alalan'ity rohy manaraka ity : Hamandrika fotoana",
+        "etape": [],
+        "documents_requis": []
+      },
+      {
+        "title": "Dingana 4: Alaivo ny “équivalence administrative”",
+        "description": "Aorian'ny fametrahana ny fangatahana dia hahazo tapakila misy ny daty hahafahana maka ny “extrait nominatif d’équivalence administrative des titres et diplômes” ianao. Amin’ny daty sy ora voatondro ao anatin’io tapakila io, tongava ao amin’ny varavarana faha-109 an’ny Ministeran’ny asa, ny fampananan’asa, ny asam-panjakana ary ny lalàna socialy (MTEFPLS) maka ilay “extrait nominatif d’équivalence administrative” ho an’ny maripahaizanao",
+        "etape": [],
+        "documents_requis": [
+          {
+            "title": "Ho an’ny maripahaizana azo teto Madagasikara",
+            "items": [
+              "Maripahaizana tena izy",
+              "01 Dika mitovy sy voamarina momba ilay maripahaizana (Eny amin’ny toerana nahazoana ny maripahaizana no hanaovana azy)",
+              "01 Dika mitovy sy voamarina ny karapanondrom-pirenena",
+              "01 Fisy fangatahana (Alaina eo ampametrahana ny fangatahana, varavarana 108 MTEFPLS)"
+            ]
+          },
+          {
+            "title": "Ho an’ny maripahaizana azo tany amin’ny firenena hafa",
+            "items": [
+              "Maripahaizana tena izy",
+              "Dika mitovy 01 amin’ny teny frantsay na anglisin’ny maripahaizana (nataon’ny mpandikateny nanao fianianana)",
+              "Dika mitovy 01 sady voamarina momba ilay maripahaizana",
+              "Dika mitovy 01 sady voamarina momba ilay maripahaizana voadika. (Atao eny anivon’ny masoivohon’ilay firenena nanome ilay maripahaizana sy ny MAE)",
+              "01 Dika mitovy sy voamarina ny karapanondrom-pirenena",
+              "01 Fisy fangatahana (Alaina eo ampametrahana ny fangatahana, varavarana 108 MTEFPLS)"
+            ]
+          }
+        ]
+      }
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/plateforme-jeunesse-citoyenne?category=citoyennete",
+    "title": "Sehatra ho an'ny Tanora Olompirenena Zom-pirenena",
+    "scraped_at": "2026-02-26T15:38:48.010695",
+    "description": "Mandraisa anjara amin'ny fivorian'ny tanora miaraka amin'ny Filohan'ny Repoblika ary zarao ny hevitrao sy ny fanontanianao ary ny tatitrao. Ity endrika ity dia ahafahantsika manangona ny anjara birikinao amin'ny fanarenana ny firenena.",
+    "etapes": [
+      "Fenoy ny mombamomba anao.",
+      "Aza mampiditra angona saro-pady (fahasalamana, laharana karapanondro feno, antsipirihany momba ny kaonty banky, sns.).",
+      "Ataovy mazava tsara ny soso-kevitra na ny fanontaniana apetrakao",
+      "Ny saha misy kintana (*) dia tsy maintsy fenoina."
+    ],
+    "temps_traitement": "1 minitra",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fiainana manokana",
+        "items": [
+          "Hodinihina ny fangatahanao mba hamaliana ny fandraisanao anjara sy hanatsarana ny tolotra ho an’ny daholobe, araka ny lalàna mifehy",
+          "Afaka manatanteraka ny zonao amin’ny fidirana, fanitsiana, na famafana ny raki-kevitra sy ny mombamomba anao ianao."
+        ]
+      },
+      {
+        "title": "Fanekena",
+        "items": [
+          "Amin’ny fandefasana ity dia manaiky ianao fa afaka ampiasaina araka ny voalaza etsy ambony ny angon-drakitrao",
+          "Marihina fa tsy aparitaka na zaraina amin'ny hafa ny mombamomba anao."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-detachement?category=fonction-publique",
+    "title": "Mangataka famindrana toerana Asam-panjakana",
+    "scraped_at": "2026-02-26T15:38:53.925004",
+    "description": "Serivisy ho an'ny mpiasam-panjakana rehetra)",
+    "etapes": [
+      "manatitra taratasy fangatahana makany amin'ny minisitry ny asam-panjakana eo amin'ny birao 204",
+      "fikarakarana tetikasana didim-pitondrana",
+      "visa avy amin’ny sampan-draharaha sy fanomezana ny karama",
+      "fanaraha-maso ara-bola",
+      "visa MAE sy sonian’ny minisitry ny asa, ny fampananan’asa, ny asam-panjakana ary ny lalàna sosialy",
+      "maka laharan’ny fisoratana any amin'ny Primatiora",
+      "manao dika mitovy voamarina any amin’ny minisiteran’ny asa, ny fampananan’asa, ny asam-panjakana ary ny lalàna Sosialy",
+      "fampahafantarana ny olona nangataka sy ny minisitera mpampiasa momba ny fanapahan-kevitra"
+    ],
+    "documents_requis": [
+      "taratasy fangatahana makany amin'ny minisitry ny MTEFOP",
+      "taratasy fanehon-kevitry ny minisitera mpampiasa",
+      "fandinihana ny tetibola momba ny karama",
+      "dika mitovy ny tetibola momba ny karama voamarina farany",
+      "filazana sora-bola"
+    ],
+    "temps_traitement": "72 ora",
+    "centre_traitement": "Birao 204, rihana faharoa Sampan-draharaha misahana ny mpiasam-panjakana Talen'ny fitantanana ny mpiasam-panjakana Ministeran'ny Asa, ny Fampananan'asa ary ny Asam-panjakana (MTEFoP)",
+    "frais_service": "maimaim-poana.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/gerer-son-habitation-et-ses-proprietes-foncieres?category=habitat-et-foncier",
+    "title": "Fitantanana ny toeram-ponenana sy ny fananan-tany Trano sy tany",
+    "scraped_at": "2026-02-26T15:39:00.276436",
+    "description": "Ny fahafatarana ny mombamomba ny fananan-tany dia isany tena hilaina amin'ny tetik'asa fampandrosoana sy fanorenana. Ny fividianana na fangatahana tany dia mitaky dingana maromaro. Ny tanjonay dia ny hanampy anao amin'ny dingana rehetra mikasika ny fananan-tany.",
+    "etapes": [
+      "Ireto avy ny dingana arahina izay azonao jerena eo amin'ny tranon-kala Direction Générale des Travaux Publics (DGTP)"
+    ],
+    "centre_traitement": "Ireo dingana arahina eo anivon'ny fitaleavana momba ny asa vaventyTale jeneralin'ny Asa vaventyLa Direction Générale de l’Aménagement du Territoire et de l’Habitat (DGATH):AUTORISATION DE TRANSACTION IMMOBILIEREINSTRUCTION DE DOSSIER D’ALIGNEMENT EN DEHORS DE LA CUAAVIS TECHNIQUE SUR LES DEMANDES D’ACQUISITION DES TERRAINS DE L’ETAT ET DES CTDINSTRUCTION ET AVIS SUR LA DEMANDE DE PERMIS DE CONSTRUIREDELIVRANCE DE PRESCRIPTION D'URBANISMEINSTRUCTION DE DOSSIER DE LOTISSEMENTDEMANDE DE DECOUPAGE GENERALAUTORISATION DE MORCELLEMENTAVIS TECHNIQUE SUR LA DEMANDE DE REMBLAILa Direction Générale des Services Fonciers (DGSF)DEPÔT DE DEMANDE DU TERRAINCERTIFICAT NEGATIF DE PROPRIETEPRESCRIPTION ACQUISITIVETRANSFORMATION CADASTREDEMANDE DE PROJET DE MORCELLEMENTCHANGEMENT DE NOMMUTATION PAR DECESMUTATION PAR VENTEMUTATION PAR PARTAGE (TOTALITÉ OU PARTIE) AVEC OU SANS MORCELLEMENTMUTATION PAR ECHANGEMUTATION PAR DONATIONINSCRIPTION OU RADIATION DE PRENOTATIONRADIATION DE CHARGE ET HYPOTHÈQUESERVITUDE DE PASSAGESECOND DUPLICATACERTIFICAT DE RECHERCHE INFRUCTUEUSECOPIE AUTHENTIQUECERFICAT DE SITUATION JURIDIQUECONSTATION DE L’ETAT DES LIEUXDEMANDE D’ACQUISITION DU TERRAIN PRIVE DE L’ETATREPERAGEDEMANDE D’ORIGINE DE PROPRIETE ET/OU/ETAT PARCELLAIRETRAVAUX DE BORNAGETRAVAUX DE RETABLISSEMENT DES BORNES ET LIMITES, MISE A JOUR DES PLANSTRAVAUX D’ÉTABLISSEMENTS DE PLAN RÉGULIERREPRODUCTION DE PLANFUSION CHANGEMENT DE NOM OU DE TITREDEMANDE DE COORDONNÉE LABORDE",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "La Direction Générale de l’Aménagement du Territoire et de l’Habitat (DGATH)",
+        "items": [
+          "AUTORISATION DE TRANSACTION IMMOBILIERE",
+          "INSTRUCTION DE DOSSIER D’ALIGNEMENT EN DEHORS DE LA CUA",
+          "AVIS TECHNIQUE SUR LES DEMANDES D’ACQUISITION DES TERRAINS DE L’ETAT ET DES CTD",
+          "INSTRUCTION ET AVIS SUR LA DEMANDE DE PERMIS DE CONSTRUIRE",
+          "DELIVRANCE DE PRESCRIPTION D'URBANISME",
+          "INSTRUCTION DE DOSSIER DE LOTISSEMENT",
+          "DEMANDE DE DECOUPAGE GENERAL",
+          "AUTORISATION DE MORCELLEMENT",
+          "AVIS TECHNIQUE SUR LA DEMANDE DE REMBLAI"
+        ]
+      },
+      {
+        "title": "La Direction Générale des Services Fonciers (DGSF)",
+        "items": [
+          "DEPÔT DE DEMANDE DU TERRAIN",
+          "CERTIFICAT NEGATIF DE PROPRIETE",
+          "PRESCRIPTION ACQUISITIVE",
+          "TRANSFORMATION CADASTRE",
+          "DEMANDE DE PROJET DE MORCELLEMENT",
+          "CHANGEMENT DE NOM",
+          "MUTATION PAR DECES",
+          "MUTATION PAR VENTE",
+          "MUTATION PAR PARTAGE (TOTALITÉ OU PARTIE) AVEC OU SANS MORCELLEMENT",
+          "MUTATION PAR ECHANGE",
+          "MUTATION PAR DONATION",
+          "INSCRIPTION OU RADIATION DE PRENOTATION",
+          "RADIATION DE CHARGE ET HYPOTHÈQUE",
+          "SERVITUDE DE PASSAGE",
+          "SECOND DUPLICATA",
+          "CERTIFICAT DE RECHERCHE INFRUCTUEUSE",
+          "COPIE AUTHENTIQUE",
+          "CERFICAT DE SITUATION JURIDIQUE",
+          "CONSTATION DE L’ETAT DES LIEUX",
+          "DEMANDE D’ACQUISITION DU TERRAIN PRIVE DE L’ETAT",
+          "REPERAGE",
+          "DEMANDE D’ORIGINE DE PROPRIETE ET/OU/ETAT PARCELLAIRE",
+          "TRAVAUX DE BORNAGE",
+          "TRAVAUX DE RETABLISSEMENT DES BORNES ET LIMITES, MISE A JOUR DES PLANS",
+          "TRAVAUX D’ÉTABLISSEMENTS DE PLAN RÉGULIER",
+          "REPRODUCTION DE PLAN",
+          "FUSION CHANGEMENT DE NOM OU DE TITRE",
+          "DEMANDE DE COORDONNÉE LABORDE"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/guide-en-cas-d-incident-securitaire?category=securite-et-justice",
+    "title": "Torolalana raha misy tranga tsy fandriam-pahalemana Fiarovana sy fitsarana",
+    "scraped_at": "2026-02-26T15:39:07.657036",
+    "description": "Fampahafantarana ny fomba rehetra atao raha sendra tojo tsy fandriampahalemana.",
+    "etapes": [],
+    "temps_traitement": "tsy voafetra",
+    "centre_traitement": "ireo biraon’ny zandary rehetra",
+    "frais_service": "maimaim-poana",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/guide-en-cas-d-incident-securitaire?category=securite-et-justice",
+    "title": "Torolalana raha misy tranga tsy fandriam-pahalemana Fiarovana sy fitsarana - Dingana 1 : fampandrenesana ny tobin’ny zandary",
+    "scraped_at": "2026-02-26T15:39:07.657036",
+    "description": "Fampahafantarana ny fomba rehetra atao raha sendra tojo tsy fandriampahalemana.",
+    "etapes": [
+      {
+        "title": "Milaza ny mombamomban'ny mpiantso",
+        "items": [
+          "Anarana ",
+          "Adiresy ",
+          "Toerana misy azy amin’ny fotoana iantsoany."
+        ]
+      }
+    ],
+    "temps_traitement": "eo no eo",
+    "centre_traitement": "izay biraon’ny zandary miandraikitra ilay toeranaa",
+    "frais_service": "maimaim-poana",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/guide-en-cas-d-incident-securitaire?category=securite-et-justice",
+    "title": "Torolalana raha misy tranga tsy fandriam-pahalemana Fiarovana sy fitsarana - Dinagana 2 : filazana fohy ny tranga misy",
+    "scraped_at": "2026-02-26T15:39:07.657036",
+    "description": "Fampahafantarana ny fomba rehetra atao raha sendra tojo tsy fandriampahalemana.",
+    "etapes": [
+      {
+        "title": "Mamaly ireto fanontaniana ireto avy hatrany mba entina milaza ny zandary ny tranga",
+        "items": [
+          "Inona ilay tranga misy ? ",
+          "Aiza ny toerana misy azy ? ",
+          "Daty sy ora nitrangany ?",
+          "Inona ny vokany (zava-niseho taorian'ilay tranga) ?",
+          "Inona no fepetra efa noraisainao ?"
+        ]
+      }
+    ],
+    "temps_traitement": "eo no eo",
+    "centre_traitement": "izay biraon’ny zandary miandraikitra ilay toeranaa",
+    "frais_service": "maimaim-poana",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/caisse-nationale-de-prevoyance-sociale-cnaps?category=sante",
+    "title": "Caisse Nationale de Prévoyance Sociale (CNaPS) Fahasalamana",
+    "scraped_at": "2026-02-26T15:39:12.501769",
+    "description": "Ny CNaPS dia sampan-draharaham-panjakana eo ambany fitarihan’ny ministera misahana ny Asa sy ny Vola, izay manatanteraka ny politikan’ny fiahiana ara-tsosialy ho an’ny mpiasa tsy miankina. Manome tolotra momba ny fiahiana ny fianakaviana, ny loza sy aretina vokatry ny asa, ary ny fisotroan-dronono izy, sady mandrindra ny asa sosialy sy ny fampiroboroboana ny fahasalamana eny amin’ny toeram-piasana.",
+    "etapes": [
+      "Jereo amin’ity rohy ity ireo dingana rehetra arahina amin’ny fisitrahana ireo tolotra ara-tsosialy : https://www.cnaps.mg/fr/categorie/comment-adherer."
+    ],
+    "documents_requis": [
+      {
+        "title": "Misy karazany ireo antontan-taratasy omena ny mpikambana, arakaraky ny ilaina azy",
+        "items": [
+          "Azonao jerena sy alaina amin’ity rohy ity ireo taratasy hanaovana fangatahana : https://www.cnaps.mg/fr/telechargement"
+        ]
+      },
+      {
+        "title": "LATSAKEMBOKA",
+        "items": [
+          "Taratasy fanamarinana tokana CNaPS- FMFP mahakasika ny Talon Declaration Nominative des Salaires",
+          "Taratasy fanamarinana tokana CNaPS-FMFP Filazan-karama (DNS) amin’ny endriny elektronika",
+          "Taratasy Filazan-karama (DNS)",
+          "Taratasy Filazan-karama (DNS) ho an’ny Sampan-draharam-panjakana",
+          "Filazan-karama (DNS) SME 2022"
+        ]
+      },
+      {
+        "title": "FAHAZOANA LAHARANA SY FIDIRANA HO MPIKAMBANA",
+        "items": [
+          "Filazana fampidirana na fanalana mpiasa, fangatahana laharana CNaPS ho an’ny mpiasa",
+          "Filazana fampidirana / fanalana mpiasa iraisana",
+          "Fangatahana laharana maha mpikambana ho an’ny mpampiasa",
+          "Fangatahana fanoloana sokajin’anaranan’ilay orinasa (Raison Sociale)"
+        ]
+      },
+      {
+        "title": "FANAMPIANA NY FIANAKAVIANA",
+        "items": [
+          "Fangatahana volan-jaza",
+          "Fangatahana volan’ny bevohoka sy mpitaiza kely",
+          "Fangatahana antsasa-karama",
+          "Fangatahana fanonerana ny vola lany tamin’ny fiterahana",
+          "Taratasy fanamarinana tombok’ora",
+          "Fangatahana fanamarinana tsy fandoavana Zo"
+        ]
+      },
+      {
+        "title": "LOZA SY ARETINA VOKATRY NY ASA",
+        "items": [
+          "Karatry ny tra-doza",
+          "Taratasy A- B- C",
+          "Taratasy filazana loza sy aretina vokatry ny asa • FISOTROAN-DRONONO",
+          "Taratasy fangatahana fisitrahana ny Zo (DLPR)",
+          "Taratasy fanamarinana ny niasana sy ny karama",
+          "Taratasy fangatahana famindrana latsakemboka",
+          "Taratasy fanamarinana tsy fahafahana miasa"
+        ]
+      }
+    ],
+    "temps_traitement": [
+      "Fanampiana ny fianakaviana : 15 andro",
+      "Fisotroan-dronono : 90 andro"
+    ],
+    "centre_traitement": "Azon’ny mpikambana CNaPS atao ny mametraka ny antontan-taratasiny eny amin’ny birao CNaPS rehetra akaiky azy sy manerana ny Nosy. (Foibe eny Ampefiloha, ireo Masoivoho, Tendro sy birao manodidina)",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Mailaka : clientele.cnaps@cnaps.mg",
+          "Tranokala : https://www.cnaps.mg",
+          "Facebook : https://web.facebook.com/cnapsmada"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/signalement-pillage-a-madagascar?category=securite-et-justice",
+    "title": "Fandrobana eto Madagascar Fiarovana sy fitsarana",
+    "scraped_at": "2026-02-26T15:39:16.337016",
+    "description": "Raha iharana na mahatsikaritra tranga fandrobana ianao dia fenoy ity \"formulaire\" ity amin'ny alalan'ny findainao.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Ahoana no hatao",
+        "items": [
+          "Activez la géolocalisation de votre téléphone",
+          "Renseignez les informations",
+          "Cliquez sur \"Soumettre\""
+        ]
+      },
+      {
+        "title": "Raha tsy mandeha ilay lien",
+        "items":[
+          "Si le formulaire ne fonctionne pas, et seulement dans ce cas, appelez le 935."
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/lutte-contre-la-violence?category=securite-et-justice",
+    "title": "Ady amin'ny herisetra Fiarovana sy fitsarana",
+    "scraped_at": "2026-02-26T15:39:21.327146",
+    "description": "Mba hanamafisana ny ady amin’ny herisetra dia afaka miara-miasa akaiky amin’ny zandarimaria ny olom-pirenena amin’ny hetsika fisorohana sy fanenjehana ny fandikan-dalana mahakasika ny fiarovana ny ankizy, ady amin'ny herisetra mifototra amin'ny mahalahy na mahavavy, ady amin'ny fanandevovaza.",
+    "etapes": [
+      "hetsika fanentanana na fampianarana,",
+      "fiakarana amin'ny haino vaky jery mikasika ny fiarovana ny ankizy,",
+      "ady amin'ny herisetra mifototra amin'ny mahalahy sy mahavavy,",
+      "ary ny ady amin'ny fanandevozana."
+    ],
+    "temps_traitement": "mandava-taona",
+    "centre_traitement": [
+      "Toby Ratsimandrava Andrefanambohijanahary Antananarivo,",
+      "Sampana fikarohana heloka bevava,",
+      "Vondona manohana ny fikarohana fandikan-dalana,",
+      "Ekipa mpikaroka fandikandalana,",
+      "Toby ny zandarimariam-pirenena manerana ny nosy."
+    ],
+    "frais_service": ": Tsy andoavam-bola",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Mila fanampiana",
+        "items": [
+          "+261 (0)34 14 016 00 66, dpjspem@gmail.com, facebook SOS.HERISETRA"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/lutte-contre-la-violence?category=securite-et-justice",
+    "title": "Ady amin'ny herisetra Fiarovana sy fitsarana - Dingana 1 : mangataka fanentanana",
+    "scraped_at": "2026-02-26T15:39:21.327146",
+    "description": "Mba hanamafisana ny ady amin’ny herisetra dia afaka miara-miasa akaiky amin’ny zandarimaria ny olom-pirenena amin’ny hetsika fisorohana sy fanenjehana ny fandikan-dalana mahakasika ny fiarovana ny ankizy, ady amin'ny herisetra mifototra amin'ny mahalahy na mahavavy, ady amin'ny fanandevovaza.",
+    "etapes": [
+      "Manaova fangatahana hetsika eo anivon'ny zandarimariam-pirenena",
+      "hetsika fanentanana na fampianarana,",
+      "fiakarana amin'ny haino vaky jery mikasika ny fiarovana ny ankizy,,",
+      "ady amin'ny herisetra mifototra amin'ny mahalahy sy mahavavy,",
+      "ary ny ady amin'ny fanandevozana."
+    ],
+    "temps_traitement": "15 minitra",
+    "centre_traitement": [
+      "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+      "Sampana fikarohana heloka bevava,",
+      "Vondrona manohana ny fikarohana fandikan-dalana,",
+      "Ekipa mpikaroka fandikandalana,",
+      "Toby ny zandarimariam-pirenena manerana ny nosy."
+    ],
+    "frais_service": ": Tsy andoavam-bola",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Zavatra hilaina",
+        "items": [
+          "fangatahana am-bava na an-tsoratra fanentanana mahakasika ady amin'ny herisetra"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/lutte-contre-la-violence?category=securite-et-justice",
+    "title": "Ady amin'ny herisetra Fiarovana sy fitsarana - Dingana 2 : fanenjehana ny fandikan-dalana",
+    "scraped_at": "2026-02-26T15:39:21.327146",
+    "description": "Mba hanamafisana ny ady amin’ny herisetra dia afaka miara-miasa akaiky amin’ny zandarimaria ny olom-pirenena amin’ny hetsika fisorohana sy fanenjehana ny fandikan-dalana mahakasika ny fiarovana ny ankizy, ady amin'ny herisetra mifototra amin'ny mahalahy na mahavavy, ady amin'ny fanandevovaza.",
+    "etapes": [
+      "fandraisana-fihenoana-famonjena",
+      "fanenjehana fandikan-dalana ambodiomby na avy amin'ny fitsarana,",
+      "Fakana am-bava",
+      "fanadihadiana",
+      "fisamborana",
+      "fandefasana ny raharaha eny amin'ny fampanoavana"
+    ],
+    "temps_traitement": "miova arakaraky ny tranga misy",
+    "centre_traitement": [
+      "toby Ratsimandrava Andrefanambohijanahary Antananarivo",
+      "Sampana fikarohana heloka bevava,",
+      "Vondrona manohana ny fikarohana fandikan-dalana,",
+      "Ekipa mpikaroka fandikandalana,",
+      "Toby ny zandarimariam-pirenena manerana ny nosy."
+    ],
+    "frais_service": ": Tsy andoavam-bola",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Taratasy hilaina",
+        "items": [
+          "fitoriana",
+          "fitorohana am-bava na an-tsoratra"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/se-former-aux-metiers-de-l-artisanat?category=agriculture-et-elevage",
+    "title": "Fiofanana amin’ny asa-tanana Fambolena sy fiompiana",
+    "scraped_at": "2026-02-26T15:39:24.063076",
+    "description": " Pour qui ? ONG, olom-pirenena tsotra, fikambanana, fiaraha-miasa (coopératives), orinasa, établissements publics, fikambanana iraisam-pirenena, sns.",
+    "etapes": [
+      "Fisoratana anarana sy fametrahana antontan-taratasy eo amin’ny Porte 108 ao amin’ny CENAM.",
+      "Fandaminana miaraka amin’ny fiche d’inscription ao amin’ny CENAM ho fanoratana ny mombamomba ny mpangataka.",
+      "Fiofanana amin’ny asa-tanana.",
+      "Fanombanana ny mpangataka nataon’ny mpampiofana sy fanombanana ny fiofanana nataon’ny mpangataka.",
+      "Fanaraha-maso sy fanomezana taratasy fanamarinana (attestation)."
+    ],
+    "documents_requis": [
+      "Dika mitovy amin’ny karapanondro (CNI)",
+      "Taratasy fanamarinam-ponenana",
+      "Sary tapaka"
+    ],
+    "centre_traitement": [
+      "DIRECTION GÉNÉRALE DU CENTRE NATIONAL DE L'ARTISANAT MALAGASY (CENAM)",
+      "FORMATION PROFESSIONNELLE EN ARTISANAT",
+      "Ministère de l'Artisanat et des Métiers (MAM)"
+    ],
+    "frais_service": "30.000 Ar hatramin’ny 200.000 Ar arakaraka ny module fiofanana.",
+    "temps_traitement": "5 andro ka hatramin’ny 4 volana arakaraka ny module fiofanana.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-carte-producteur?category=agriculture-et-elevage",
+    "title": "Fangatahana karatry ny mpamokatra Fambolena sy fiompiana",
+    "scraped_at": "2026-02-26T15:39:28.485775",
+    "description": "Ny Ministère de l'Agriculture et de l'Élevage dia mamoaka ny karatra mpamokatra, izay fitaovana fanamarinana ny mpamboly, mpiompy ary mpanjono any Madagasikara. Manan-kery 10 taona izy io, misy mombamomba ny mpamokatra, kaody QR ary “numéro d’identifiant fonctionnel”, ary manamafy ny maha-mpamokatra ny tompony, azo ampiasaina manerana ny nosy sy any ivelany raha mifanaraka amin’ny fepetra.",
+    "etapes": [
+      "Dingana 1 fenoy ny taratasy fangatahana \"carte producteur\" - karatra Carte producteur - Torolalana https://app.torolalana.gov.mg/",
+      "Dingana 2 fikarakarana ny fangatahana : Fikarakarana ny fangatahana eo amin’ny MINAE (Minisitry ny Fambolena sy ny Fiompiana).",
+      "Dingana 3 : fizarana karatra"
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-de-passeport?category=citoyennete",
+    "title": "Fangalana pasipaoro Zom-pirenena",
+    "scraped_at": "2026-02-26T15:39:32.654305",
+    "description": "Ny pasipaoro dia anisan'ny taratasy fahazoan-dalana mivezivezy maneran-tany azon’ny teratany malagasy angatahina.",
+    "etapes": [
+      "hamarinina ny antontan-taratasy rehetra",
+      "mandoa vola eo amin’ny tahirimbolam-panjakana",
+      "maka sary sy lavo-tondro"
+    ],
+    "documents_requis": [
+      "hamarinina ny antontan-taratasy rehetra",
+      "mandoa vola eo amin’ny tahirimbolam-panjakana",
+      "maka sary sy lavo-tondro"
+    ],
+    "temps_traitement": [
+      "72 ora afa-tsy ny fivoahana mitsabo tena any ivelany (EVASAN) sy ny pamita iraka maika.",
+      "10 andro raha fangatahana avy any ivelany na avy any amin'ny faritra."
+    ],
+    "centre_traitement": "Service Central du Contrôle de l’Immigration et de l’Emigration (SCCIE) Patte d'éléphant- Anosy- Antananarivo",
+    "frais_service": ": 190 000 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Mila fanampiana",
+        "items": [
+          "raha mila fanazavana fanampiny dia antsoy ny laharana +261 (0)38 11 000 77 mandritra ny ora fisokafan'ny birao.",
+          "(08 ora- 12 ora maraina / 2 ora - 6 ora hariva, ny alatsinainy ka hatramin'ny zoma afa-tsy ny andro tsy fiasana)"
+        ]
+      },
+      {
+        "title": "Taratasy azo amin'ny farany",
+        "items": ["pasipaoro tsotra malagasy"]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-de-passeport?category=citoyennete",
+    "title": "Fangalana pasipaoro Zom-pirenena - Dingana 1 : omany ireo antotan-taratasy ilaina",
+    "scraped_at": "2026-02-26T15:39:32.654305",
+    "description": "Ny pasipaoro dia anisan'ny taratasy fahazoan-dalana mivezivezy maneran-tany azon’ny teratany malagasy angatahina.",
+    "etapes": [],
+    "documents_requis": [
+      {
+        "title": "Fangatahana vaovao na pasipaoro voalaza ho very",
+        "items": [
+          "Dika mitovy amin’ny sora-pahaterahana tsy mihoatra ny 3 volana.",
+          "Dika mitovy ara-dalàna amin’ny Karapanondro (CNI) tsy mihoatra ny 3 volana.",
+          "Taratasy fanamarinam-ponenana tsy mihoatra ny 3 volana.",
+          "Taratasy fanamarinana ny sata miaramila (Certificat de position militaire).",
+          "Fahazoan-dàlana avy amin’ny ray na reny voamarina ara-dalàna (ho an’ny ankizy latsaky ny 21 taona) tsy mihoatra ny 3 volana.",
+          "Antony hanaovana dia (Mission, Stage, sns.).",
+          "Sary tapaka 3 vao haingana.",
+          "Saran’ny fangatahana: 190.000 Ar na 950.000 FMG.",
+          "Fanamarinana asa na taratasy momba ny asa (Attestation d’emploi ou Certificat de travail)."
+        ]
+      },
+      {
+        "title": "Fanavaozana pasipaoro",
+        "items": [
+          "Dika mitovy amin’ny sora-pahaterahana tsy mihoatra ny 3 volana (ho an’ny ankizy latsaky ny 21 taona).",
+          "Sary tapakila 3 vao haingana.",
+          "Taratasy fanamarinam-ponenana tsy mihoatra ny 3 volana.",
+          "Dika mitovy ara-dalàna amin’ny Karapanondro (CNI) tsy mihoatra ny 3 volana.",
+          "Fahazoan-dàlana avy amin’ny ray na reny voamarina ara-dalàna (ho an’ny ankizy latsaky ny 21 taona) tsy mihoatra ny 3 volana.",
+          "Fanamarinana asa (Attestation d’emploi) tsy mihoatra ny 3 volana.",
+          "Saran’ny fangatahana: 190.000 Ar na 950.000 FMG."
+        ]
+      }
+    ],
+    "temps_traitement": "miankina amin'ny antontan-taratasy tsirairay",
+    "centre_traitement": "miankina amin'ny antontan-taratasy tsirairay",
+    "frais_service": "miankina amin'ny antontan-taratasy tsirairay",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-de-passeport?category=citoyennete",
+    "title": "Fangalana pasipaoro Zom-pirenena - Dingana 2 : alefaso ao amin'ny tranokala ny antotan-taratasy",
+    "scraped_at": "2026-02-26T15:39:32.654305",
+    "description": "Ny pasipaoro dia anisan'ny taratasy fahazoan-dalana mivezivezy maneran-tany azon’ny teratany malagasy angatahina.",
+    "etapes": ["Alefaso ao amin'ny tranokala ny antonta-taratasy https://www.pn.gov.mg/passport/"],
+    "documents_requis": [],
+    "temps_traitement": "miankina amin'ny antontan-taratasy tsirairay",
+    "centre_traitement": "Jereo ity rohy ity https://www.pn.gov.mg/passport/",
+    "frais_service":" tsy misy sarany",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Mila fanampiana",
+        "items": [
+          "raha mila fanazavana fanampiny dia antsoy ny laharana +261 (0)38 11 000 77 mandritra ny ora fisokafan'ny birao.",
+          "(08 ora- 12 ora maraina / 2 ora - 6 ora hariva, ny alatsinainy ka hatramin'ny zoma afa-tsy ny andro tsy fiasana)"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-de-passeport?category=citoyennete",
+    "title": "Fangalana pasipaoro Zom-pirenena - Dingana 3: manatona ny serivisy pasipaoro",
+    "scraped_at": "2026-02-26T15:39:32.654305",
+    "description": "Manatona ny birao filankevitra (accueil) miaraka ny tapakila",
+    "etapes": [
+      "hamarinina ny antontan-taratasy rehetra",
+      "mandoa vola eo amin’ny tahirimbolam-panjakana",
+      "maka sary sy lavo-tondro"
+    ],
+    "documents_requis": [],
+    "temps_traitement": "1 ora",
+    "centre_traitement": "Service Central du Contrôle de l’Immigration et de l’Emigration (SCCIE) Patte d'éléphant- Anosy- Antananarivo",
+    "frais_service":"190 000 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Mila fanampiana",
+        "items": [
+          "raha mila fanazavana fanampiny dia antsoy ny laharana +261 (0)38 11 000 77 mandritra ny ora fisokafan'ny birao.",
+          "(08 ora- 12 ora maraina / 2 ora - 6 ora hariva, ny alatsinainy ka hatramin'ny zoma afa-tsy ny andro tsy fiasana)"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-de-passeport?category=citoyennete",
+    "title": "Fangalana pasipaoro Zom-pirenena - Dingana 4 : fangalana ny pasipaoro",
+    "scraped_at": "2026-02-26T15:39:32.654305",
+    "description": "Mila entinao ny laharana voafaritra izay nomena anao mba angalanao ny pasipaoronao.",
+    "etapes": [],
+    "documents_requis": [],
+    "temps_traitement": "1 ora",
+    "centre_traitement": "Service Central du Contrôle de l’Immigration et de l’Emigration (SCCIE) Patte d'éléphant- Anosy- Antananarivo",
+    "frais_service":"tsy misy sarany",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Mila fanampiana",
+        "items": [
+          "raha mila fanazavana fanampiny dia antsoy ny laharana +261 (0)38 11 000 77 mandritra ny ora fisokafan'ny birao.",
+          "(08 ora- 12 ora maraina / 2 ora - 6 ora hariva, ny alatsinainy ka hatramin'ny zoma afa-tsy ny andro tsy fiasana)"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demande-d-acte-de-naissance?category=etat-civil",
+    "title": "Fangalana kopia nahaterahana Soram-piankohonana",
+    "scraped_at": "2026-02-26T15:39:36.471684",
+    "description": "Ny raki-tsora-pahaterahana no porofo ara-dalana ny fananana ny zo-pirenena ho an'olona iray. Izay no antony ilana ny kopia feno na ny kopian'ny sora-pahaterahana amin'ny fikarakarana ofisialy maro, oty ny fanambadiana, fisarahana, fangatahana sy fanavaozana kara-panondro. Ny raki-tsora-pahaterahana dia taratasy ofisialy, manaraka ny voalazan'ny lalàna ny votoatiny, izay manamarina ny fahaterahan'ny olona iray. Ny Tonian'ny Sora-piankohonana no manao sonia azy ary manamarina fa manara-dalàna io. Ny fahaterahana rehetra dia tsy maintsy soratana ao amin'ny tonian'ny sora-piankohonana farafahatarany telopolo (30) andro aorian'ny nahaterahana. Araka izany, rehefa teraka ny zaza iray, ny zavatra voalohany tokony atao dia ny fanoratana ny nahaterahany ao amin'ny rejisitrin'ny soram-piankohonana eny anivon'ny kaominina nahaterahany.",
+    "documents_requis": [
+      "Taratsy fanamarinam-piterahana",
+      "Boki-pianakaviana,",
+      "Dika mitovin'ny kara-panondron'ny reniny",
+      "Dika mitovy ny kara-panondron'ny mpanolotra",
+      "Fisy fanisana ny teraka",
+      "Vola 1000ar"
+    ],
+    "centre_traitement": "Eo anivon'ny firaisana nahaterahana no hanaovana izany.",
+    "temps_traitement": "Vita ao anatin'ny fotoana fohy ny kopia.",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/exporter-des-produits-artisanaux?category=agriculture-et-elevage",
+    "title": "Fanondranana vokatra asa-tanana Fambolena sy fiompiana",
+    "scraped_at": "2026-02-26T15:39:41.770013",
+    "description": "Fangatahana taratasy fanamarinana ho an’ny orinasa rehetra izay maniry hanondrana ny zavakanto Malagasy.",
+    "etapes": [
+      "Fametrahana antontan-taratasy eo amin’ny Porte 101 ao amin’ny Ministère de l’Artisanat et des Métiers.",
+      "Fanamarinana ny antontan-taratasy nataon’ny Service de Certification ao amin’ny Minisiteran’ny Asa-tanana sy ny Asa-matihanina.",
+      "Fanamarinana sy fitsirihana ny vokatra.",
+      "Fanomezana ny taratasy fanamarinana (certificat)."
+    ],
+    "documents_requis": [
+      "Dika mitovy amin’ny karatra NIF sy STAT",
+      "Faktiora amin’ny dika maromaro amin’ny Euro",
+      "Domiciliation bancaire raha mihoatra ny 3.000.000 Ar ny vola",
+      "Visa avy amin’ny minisiteran’ny sehatra mifandraika araka ny karazana vokatra",
+      "Procès-verbal momba ny fanamarinana sy fanaraha-maso ny vokatra"
+    ],
+    "temps_traitement": [
+      "Fanodinana avy hatrany eo an-toerana (ao amin’ny biraon’ny Minisiteran’ny Asa-tanana)",
+      "24 ora raha tsy eo an-toerana (eo amin’ny toerana fametrahana ny antontan-taratasy ho an’ny fanondranana)"
+    ],
+    "centre_traitement": [
+      "67 ha Sud, Porte 101",
+      "Ministère de l’Artisanat et des Métiers"
+    ],
+    "frais_service": "0 Ar",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "items": [
+          "Dépôt des dossiers à la Porte 101 du Ministère de l'Artisanat et des Métiers",
+          "Vérification des dossiers par le Service de Certification du Ministère de l'Artisanat et des Métiers.",
+          "Constatation du produit.",
+          "Délivrance du certificat."
+        ]
+      },
+      {
+        "title": "Documents requis :",
+        "items": [
+          "Photocopie de la carte NIF et STAT",
+          "Facture en plusieurs exemplaires en euros",
+          "Domiciliation bancaire si le montant est supérieur à 3 000 000 Ar",
+          "Visa des ministères concernés selon les types de produits",
+          "Procès-verbal de constatation et de contrôle des produits"
+        ]
+      },
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Traitement immédiat sur place (au bureau du Ministère)",
+          "24 heures hors place (au dépôt de l'exportateur)"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-casier-judiciaire-bulletin-n-3?category=citoyennete",
+    "title": "Fangalana « casier judiciaire » na bulletin N° 3 Zom-pirenena",
+    "scraped_at": "2026-02-26T15:39:47.678108",
+    "description": "Ny firaketana an- tsoratra heloka bevava \"casier judiciaire\" na \"bulletin N° 3\" dia taratasy ofisialy mitanisa ny heloka bevava nataon'ny olona iray. Ahitana fampahalalana momba ny fanamelohana sy ny fandikan-dalàna izay naha- meloka ilay olona. Ity fampahalalana ity dia ahitana ny karazana heloka bevava, ny datin'ny fanamelohana, ary ny sazy nampiharina. Ny firaketana an-tsoratra heloka bevava dia antontan-taratasy manamarina ny sata ara-pitsarana amin’ny heloka bevava, ampiasaina amin’ny asa, fangatahana visa, fampindramam-bola, na toe-javatra hafa, ka ny firaketana madio dia midika fa tsy mbola voaheloka ilay olona.",
+    "etapes": [
+      "Dingana 1 : omany ireo antotan-taratasy ilaina",
+      "Dingana 2 : atero ny fangatahana",
+      "Dingana 3 : fangalana ny bulletin N°3."
+    ],
+    "documents_requis": [],
+    "temps_traitement": "24 ora eo ho eo",
+    "centre_traitement": " tenue des registres administratifs / Section casier judiciaire - Fitsarana ambaratonga voalohany eo amin'ny toerana nahaterahanao.",
+    "frais_service": ": 2 000 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Taratasy azo amin'ny farany ",
+        "items": [
+          "bulletin N°3"
+        ]
+      },
+      {
+        "title": "Mamandrika fotoana",
+        "items":["https://digital.gov.mg/cj"]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-casier-judiciaire-bulletin-n-3?category=citoyennete",
+    "title": "Fangalana « casier judiciaire » na bulletin N° 3 Zom-pirenena - Dingana 1 : omany ireo antotan-taratasy ilaina",
+    "scraped_at": "2026-02-26T15:39:47.678108",
+    "description": "Ny firaketana an- tsoratra heloka bevava \"casier judiciaire\" na \"bulletin N° 3\" dia taratasy ofisialy mitanisa ny heloka bevava nataon'ny olona iray. Ahitana fampahalalana momba ny fanamelohana sy ny fandikan-dalàna izay naha- meloka ilay olona. Ity fampahalalana ity dia ahitana ny karazana heloka bevava, ny datin'ny fanamelohana, ary ny sazy nampiharina. Ny firaketana an-tsoratra heloka bevava dia antontan-taratasy manamarina ny sata ara-pitsarana amin’ny heloka bevava, ampiasaina amin’ny asa, fangatahana visa, fampindramam-bola, na toe-javatra hafa, ka ny firaketana madio dia midika fa tsy mbola voaheloka ilay olona.",
+    "etapes": [],
+    "documents_requis": [
+      "Fangatahana atao sora-tànana (demande manuscrite), jereo ity rohy ity https://drive.google.com/file/d/11S4YBpGMuPyxqc7UWTK6ojhE1P0eSaO7/view",
+      "Fotokopian'ny kara-panondrom-pirenena VOAMARINA tamin'ity taona ity.",
+      "Kopia lava na kopian'ny sora-pahaterahana."
+    ],
+    "temps_traitement": "miankina amin'ny antontan-taratasy tsirairay",
+    "centre_traitement": "miankina amin'ny antontan-taratasy tsirairay",
+    "frais_service": "miankina amin'ny antontan-taratasy tsirairay",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-casier-judiciaire-bulletin-n-3?category=citoyennete",
+    "title": "Fangalana « casier judiciaire » na bulletin N° 3 Zom-pirenena - Dingana 2 : atero ny fangatahana",
+    "scraped_at": "2026-02-26T15:39:47.678108",
+    "description": "Ny firaketana an- tsoratra heloka bevava \"casier judiciaire\" na \"bulletin N° 3\" dia taratasy ofisialy mitanisa ny heloka bevava nataon'ny olona iray. Ahitana fampahalalana momba ny fanamelohana sy ny fandikan-dalàna izay naha- meloka ilay olona. Ity fampahalalana ity dia ahitana ny karazana heloka bevava, ny datin'ny fanamelohana, ary ny sazy nampiharina. Ny firaketana an-tsoratra heloka bevava dia antontan-taratasy manamarina ny sata ara-pitsarana amin’ny heloka bevava, ampiasaina amin’ny asa, fangatahana visa, fampindramam-bola, na toe-javatra hafa, ka ny firaketana madio dia midika fa tsy mbola voaheloka ilay olona.",
+    "etapes": [
+      "Manatona ny biraon'ny fitsarana ambaratonga voalohany (TPI) miasa eo amin'ny toerana nahaterahanao.",
+      "hamarinina ny antontan-taratasy rehetra",
+      "mandoa vola eo amin’ny tahirimbolam-panjakana"
+    ],
+    "documents_requis": [],
+    "temps_traitement": "30 min",
+    "centre_traitement": "fitsarana ambaratonga voalohany (TPI) miasa eo amin'ny toerana nahaterahanao.",
+    "frais_service": "2 000 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-casier-judiciaire-bulletin-n-3?category=citoyennete",
+    "title": "Fangalana « casier judiciaire » na bulletin N° 3 Zom-pirenena - Dingana 3 : fangalana ny bulletin N°3",
+    "scraped_at": "2026-02-26T15:39:47.678108",
+    "description": "Ny firaketana an- tsoratra heloka bevava \"casier judiciaire\" na \"bulletin N° 3\" dia taratasy ofisialy mitanisa ny heloka bevava nataon'ny olona iray. Ahitana fampahalalana momba ny fanamelohana sy ny fandikan-dalàna izay naha- meloka ilay olona. Ity fampahalalana ity dia ahitana ny karazana heloka bevava, ny datin'ny fanamelohana, ary ny sazy nampiharina. Ny firaketana an-tsoratra heloka bevava dia antontan-taratasy manamarina ny sata ara-pitsarana amin’ny heloka bevava, ampiasaina amin’ny asa, fangatahana visa, fampindramam-bola, na toe-javatra hafa, ka ny firaketana madio dia midika fa tsy mbola voaheloka ilay olona.",
+    "etapes": [
+      "Manatona ny biraon'ny fitsarana ambaratonga voalohany (TPI) maka ny bulletin N°3"
+    ],
+    "documents_requis": [],
+    "temps_traitement": "10 min",
+    "centre_traitement": "fitsarana ambaratonga voalohany (TPI) miasa eo amin'ny toerana nahaterahanao.",
+    "frais_service": "0 Ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/demander-un-casier-judiciaire-bulletin-n-3?category=citoyennete",
+    "title": "Fangalana « casier judiciaire » na bulletin N° 3 Zom-pirenena - Andrana nomerika eto Antananarivo",
+    "scraped_at": "2026-02-26T15:39:47.678108",
+    "description": "Miova ny fomba fiasa eo anivon’ny Fitsarana ambaratonga voalohany Antananarivo. Amin’izao fotoana izao, efa misy tolotra nomerika napetraka hahafahan'ny rehetra mamandrika fotoana eo anivon'ny sampandraharaha mikirakira ny firaketana heloka bevava sy amin'ny tranonkala.",
+    "etapes": [
+      "Dingana 1 : Omany ireo antotan-taratasy ilaina",
+      "Dingana 2 : mamandrika fotoana amin'ny tranonkala",
+      "Dingana 3 : Atero ny fangatahana"
+    ],
+    "documents_requis": [
+      {
+        "title": "Dingana 1 : Omany ireo antotan-taratasy ilaina",
+        "items": [
+          "Fangatahana atao sora-tànana (demande manuscrite), jereo ity rohy ity https://drive.google.com/file/d/11S4YBpGMuPyxqc7UWTK6ojhE1P0eSaO7/view",
+          "Fotokopian'ny kara-panondrom-pirenena VOAMARINA tamin'ity taona ity.",
+          "Kopia lava na kopian'ny sora-pahaterahana."
+        ]
+      },
+      {
+        "title": "Dingana 2 : mamandrika fotoana amin'ny tranonkala",
+        "items": [
+          "Distrika voakasika :",
+          "Antananarivo Renivohitra (boriborintany 1, 2, 3, 4, 5 ary 6)",
+          "Antananarivo Avaradrano",
+          "Antananarivo Antsimondrano",
+          "Manjakandriana",
+          "Ambohidratrimo",
+          "Anjozorobe",
+          "Andramasina"
+        ]
+      },
+      {
+         "title": "Dingana 3 : Atero ny fangatahana",
+         "items":[
+          "Toerana : Birao Etat Civil, varavarana 01, section Casier Judiciaire eo ampitan’ny cafeteria Fitsarana. Miditra eo amin’ny lalana manelanelana ny RNM sy ny Lapan’ny Fitsarana.",
+          "Ora fandraisana : alatsinainy ka hatramin'ny zoma, 8ora-12ora",
+          "Faharetan'ny fikarakarana : lazaina eo ampanaterana ny fangatahana. Amin’ny ankapobeany 24 ora eo ho eo.",
+          "Sarany : 2 000 ariary",
+          "Fanamarihana : atambaro ny taratasinao mba tsy hiparitaka (ohatra trombone )"
+
+         ]
+      }
+    ],
+    "temps_traitement": "lazaina eo ampanaterana ny fangatahana. Amin’ny ankapobeany 24 ora eo ho eo.",
+    "centre_traitement": "Birao Etat Civil, varavarana 01, section Casier Judiciaire eo ampitan’ny cafeteria Fitsarana. Miditra eo amin’ny lalana manelanelana ny RNM sy ny Lapan’ny Fitsarana.",
+    "frais_service": " 2 000 ariary",
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Fanamarihana",
+        "items": [
+          "atambaro ny taratasinao mba tsy hiparitaka (ohatra trombone )"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-differents-types-d-impots-a-madagascar?category=fiscalite",
+    "title": "Ireo karazan-ketra eto Madagasikara Hetra",
+    "scraped_at": "2026-02-26T15:39:54.021817",
+    "description": "Eto Madagasikara dia mizara sokajy roa ny hetra",
+    "party": [
+      "Hetra nasionaly (impôts d’État)",
+      "Hetra eo an-toerana (impôts locaux)"
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-differents-types-d-impots-a-madagascar?category=fiscalite",
+    "title": "Ireo karazan-ketra eto Madagasikara Hetra - Hetra eo an-toerana (impôts locaux)",
+    "scraped_at": "2026-02-26T15:39:54.021817",
+    "description": "Misy karazany ihany koa ny hetra eo an-toerana",
+    "party":[
+      "IFT (Impôt Foncier sur les Terrains) → hetra amin’ny tany foana (terrain nu), kajiana 1% amin’ny sandan’ny tany eny an-tsena.",
+      "IFT (Impôt Foncier sur les Terrains) → hetra amin’ny tany foana (terrain nu), kajiana 1% amin’ny sandan’ny tany eny an-tsena.",
+      "Ho an’ny trano fonenana, ny hetra dia mitovy amin’ny ampahatelon’ny sandany."
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-differents-types-d-impots-a-madagascar?category=fiscalite",
+    "title": "Ireo karazan-ketra eto Madagasikara Hetra - Hetra nasionaly (Hetra fanjakana)",
+    "scraped_at": "2026-02-26T15:39:54.021817",
+    "description": "Misy karazany ihany koa ny hetra nasionaly",
+    "party":[
+      "Impôt sur les Revenus (IR)",
+      "Impôt Synthétique (IS)",
+      "Impôt sur les Revenus Salariaux et Assimilés (IRSA)",
+      "Impôt sur les Revenus des Capitaux Mobiliers (IRCM)"
+    ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Impôt sur les Revenus (IR)",
+        "items": [
+          "Hetra isan-taona araka ny vola miditra.",
+          "Tsy maintsy aloa raha ≥ 400 tapitrisa Ar ny vola miditra isan-taona.",
+          "Taham-pandoavana sy minimum arakaraka ny sehatra iasana.",
+          "Fanambarana: alohan’ny 15 Mey isan-taona."
+        ]
+      },
+      {
+        "title": "Impôt Synthétique (IS)",
+        "items": [
+          "Mihatra raha < 400 tapitrisa Ar ny vola miditra isan-taona.",
+          "Tsy mandoa TVA.",
+          "Taham-pandoavana: 5% (afaka mihena ho 3%).",
+          "Fanambarana: alohan’ny 31 Martsa isan-taona."
+        ]
+      },
+      {
+        "title": "Impôt sur les Revenus Salariaux et Assimilés (IRSA)",
+        "items": [
+          "Hetra alaina amin’ny karaman’ny mpiasa.",
+          "Taham-pandoavana miakatra tsikelikely hatramin’ny 20%.",
+          "Farafahakeliny: 3.000 Ar.",
+          "Fandoavana: isam-bolana ao anatin’ny 15 andro voalohany."
+        ]
+      },
+      {
+        "title": "Impôt sur les Revenus des Capitaux Mobiliers (IRCM)",
+        "items": [
+          "Mihatra amin’ny vola miditra avy amin’ny zanabola sy fampindramam-bola.",
+          "Taham-pandoavana: 20%.",
+          "Fandoavana: alohan’ny 15 Mey isan-taona."
+          ]
+      }
+    ]
+  },
+  {
+    "language": "mg",
+    "url": "https://torolalana.gov.mg/mg/services/les-differents-types-d-impots-a-madagascar?category=fiscalite",
+    "title": "Ireo karazan-ketra eto Madagasikara Hetra - Hetra mivantana sy ankolaka",
+    "scraped_at": "2026-02-26T15:39:54.021817",
+    "description": "",
+    "party":[
+      "Hetra mivantana (impôts directs) → toy ny IR, IS.",
+      "Hetra ankolaka (impôts indirects) → toy ny TVA, droits de douane, hetra amin’ny sigara, alikaola, lalao filokana, sns."
+      ],
+    "listes_supplementaires": [
+      {
+        "title": "Liste supplementaire",
+        "items": [
+          "Fanazavana",
+          "Serivisy",
+          "Fifandraisana"
+        ]
+      },
+      {
+        "title": "Taxe sur la Valeur Ajoutée (TVA)",
+        "items": [
+          "Kajiana isam-bolana araka ny vola miditra.",
+          "Tsy maintsy aloa raha ≥ 400 tapitrisa Ar ny vola miditra isan-taona.",
+          "Taham-pandoavana: 20%, ary 0% ho an’ny fanondranana.",
+          "Fandoavana: alohan’ny faha-15 amin’ny volana manaraka."
+        ]
+      }
+    ]
+  }
+]
