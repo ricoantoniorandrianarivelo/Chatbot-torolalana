@@ -15,6 +15,7 @@ models.Base.metadata.create_all(bind=engine)
 app = FastAPI(title="Torolalana Admin Chatbot API")
 
 origins = [
+    "http://localhost:3000",
     "https://chatbot-torolalana.vercel.app",  # ton frontend Vercel
 ]
 

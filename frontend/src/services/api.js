@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://chatbot-torolalana.onrender.com', // Production URL
+    baseURL: 'https://chatbot-torolalana.onrender.com/chat', // Production URL
     //baseURL: 'http://localhost:8001', // Local Development Port (8000 was blocked)
 });
 
