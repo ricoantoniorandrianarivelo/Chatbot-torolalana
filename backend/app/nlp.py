@@ -37,10 +37,10 @@ mg_data = load_json(MG_DATA_PATH)
 print(f"Loaded {len(fr_data)} chunks for French.")
 print(f"Loaded {len(mg_data)} chunks for Malagasy.")
 
-# Initialize the lightweight local NLP model
-# 'all-MiniLM-L6-v2' is very fast, free, and runs well on CPU for sentence similarity
-# 'paraphrase-multilingual-MiniLM-L12-v2' supports 50+ languages including French and Malagasy
-MODEL_NAME = 'paraphrase-multilingual-MiniLM-L12-v2'
+# Initialize a much lighter multilingual model for Render Free Tier (512MB RAM)
+# 'intfloat/multilingual-e5-small' is ~100MB (vs 470MB for the previous one)
+# This fixes "Out of memory" and "Port scan timeout" on Render.
+MODEL_NAME = 'intfloat/multilingual-e5-small'
 model = SentenceTransformer(MODEL_NAME)
 
 class NLPService:
@@ -83,11 +83,11 @@ class NLPService:
                 }
             
             entry = aggregated[url]
-            if "text" in item:
+            if "text" in item and item["text"]:
                 if item.get("tag") == "full":
-                    entry["full_content"] = item["text"]
+                    entry["full_content"] = str(item["text"])
                 else:
-                    entry["text"] += f"\n{item['text']}"
+                    entry["text"] += f"\n{str(item['text'])}"
             
             if "description" in item and item["description"] and not entry["description"]:
                 entry["description"] = item["description"]
@@ -127,9 +127,10 @@ class NLPService:
 
     def _get_keyword_boost(self, query: str, data_item: dict):
         """Returns a boost factor if high-intent keywords match the item significantly."""
-        q_norm = self._normalize(query)
-        title_norm = self._normalize(data_item.get("title", data_item.get("service_title", "")))
-        url_norm = data_item.get("url", data_item.get("page_url", "")).lower() # URL is already ASCII-ish
+        q_norm = self._normalize(query or "")
+        title_val = data_item.get("title", data_item.get("service_title", ""))
+        title_norm = self._normalize(str(title_val) if title_val else "")
+        url_norm = str(data_item.get("url", data_item.get("page_url", ""))).lower()
         
         # Define intent keywords (normalized)
         intents = {
@@ -161,7 +162,9 @@ class NLPService:
         if not raw_data or title_embs is None:
             return "Internal Error: Knowledge base not loaded."
 
-        query_emb = model.encode(query, convert_to_tensor=True)
+        # E5 models perform better when queries are prefixed with 'query: '
+        query_to_encode = f"query: {query}"
+        query_emb = model.encode(query_to_encode, convert_to_tensor=True)
         
         # Search in both title and description
         title_scores = util.cos_sim(query_emb, title_embs)[0].cpu().numpy()
