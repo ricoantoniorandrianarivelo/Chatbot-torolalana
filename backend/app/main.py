@@ -14,6 +14,18 @@ models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="Torolalana Admin Chatbot API")
 
+origins = [
+    "https://chatbot-torolalana.vercel.app",  # ton frontend Vercel
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Setup CORS for frontend to talk to backend
 app.add_middleware(
     CORSMiddleware,

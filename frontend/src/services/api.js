@@ -1,8 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-    // baseURL: 'https://chatbot-torolalana.onrender.com', // Production URL
-    baseURL: 'http://localhost:8001', // Local Development Port (8000 was blocked)
+    baseURL: 'https://chatbot-torolalana.onrender.com', // Production URL
+    //baseURL: 'http://localhost:8001', // Local Development Port (8000 was blocked)
 });
 
 // Add a request interceptor to attach the JWT token
