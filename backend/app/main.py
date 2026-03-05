@@ -16,21 +16,14 @@ app = FastAPI(title="Torolalana Admin Chatbot API")
 
 origins = [
     "http://localhost:3000",
-    "https://chatbot-torolalana.vercel.app",  # ton frontend Vercel
+    "http://localhost:5173", # Vite default
+    "https://chatbot-torolalana.vercel.app",
+    "*", # Temporary wildcard to fix CORS errors during initial deploy
 ]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Setup CORS for frontend to talk to backend
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"], # For dev. In prod, use specific origin
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
